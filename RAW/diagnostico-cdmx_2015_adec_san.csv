@@ -1,0 +1,715 @@
+id,anio,mun,estratos,sexo,edad,total,total_low,total_upp,dim,nomgeo
+0,2015.0,2.0,Pobreza muy alta,Hombre,45-59,1350.0,869194759411000.0,183080524059000.0,Adec. Sanitaria,Azcapotzalco
+1,2015.0,2.0,Pobreza muy alta,Mujer,12-29,2466.0,162812643199000.0,330387356801000.0,Adec. Sanitaria,Azcapotzalco
+2,2015.0,2.0,Pobreza muy alta,Mujer,60 y mas,1252.0,720141478035000.0,178385852197000.0,Adec. Sanitaria,Azcapotzalco
+3,2015.0,2.0,Pobreza moderada,Hombre,45-59,3437.0,250469758352000.0,436930241648000.0,Adec. Sanitaria,Azcapotzalco
+4,2015.0,2.0,Pobreza moderada,Mujer,0-11,2519.0,151790209591000.0,352009790409000.0,Adec. Sanitaria,Azcapotzalco
+5,2015.0,2.0,Pobreza moderada,Mujer,30-44,4435.0,317679278592000.0,569320721408000.0,Adec. Sanitaria,Azcapotzalco
+6,2015.0,2.0,Satisfaccion mínima,Hombre,0-11,23484.0,201043106741000.0,268636893259000.0,Adec. Sanitaria,Azcapotzalco
+7,2015.0,2.0,Satisfaccion mínima,Hombre,12-29,42425.0,368791269525000.0,479708730475000.0,Adec. Sanitaria,Azcapotzalco
+8,2015.0,2.0,Satisfaccion mínima,Hombre,60 y mas,23915.0,20315826709500.0,27514173290500.0,Adec. Sanitaria,Azcapotzalco
+9,2015.0,2.0,Satisfaccion mínima,Mujer,0-11,21299.0,175413497268000.0,250566502732000.0,Adec. Sanitaria,Azcapotzalco
+10,2015.0,2.0,Satisfaccion mínima,Mujer,12-29,42623.0,372368595984000.0,480091404016000.0,Adec. Sanitaria,Azcapotzalco
+11,2015.0,2.0,Satisfaccion mínima,Mujer,45-59,37370.0,322778402070000.0,424621597930000.0,Adec. Sanitaria,Azcapotzalco
+12,2015.0,2.0,Satisfaccion mínima,Mujer,60 y mas,34377.0,297605698898000.0,389934301102000.0,Adec. Sanitaria,Azcapotzalco
+13,2015.0,2.0,Satisfaccion mínima,Mujer,No especificado,86.0,-202680994184000.0,192268099418000.0,Adec. Sanitaria,Azcapotzalco
+14,2015.0,3.0,Pobreza muy alta,Hombre,No especificado,92.0,-92480778255000.0,193248077825000.0,Adec. Sanitaria,Coyoacán
+15,2015.0,3.0,Pobreza muy alta,Mujer,0-11,2267.0,161693746951000.0,291706253049000.0,Adec. Sanitaria,Coyoacán
+16,2015.0,3.0,Pobreza muy alta,Mujer,30-44,3365.0,237096672321000.0,435903327679000.0,Adec. Sanitaria,Coyoacán
+17,2015.0,3.0,Pobreza muy alta,Mujer,60 y mas,2530.0,19123783154800.0,31476216845200.0,Adec. Sanitaria,Coyoacán
+18,2015.0,3.0,Pobreza muy alta,Mujer,No especificado,103.0,-390306037654000.0,24503060376500.0,Adec. Sanitaria,Coyoacán
+19,2015.0,3.0,Pobreza alta,Hombre,0-11,2688.0,179940876948000.0,357659123052000.0,Adec. Sanitaria,Coyoacán
+20,2015.0,3.0,Pobreza alta,Hombre,30-44,3341.0,228514421236000.0,439685578764000.0,Adec. Sanitaria,Coyoacán
+21,2015.0,3.0,Pobreza alta,Mujer,12-29,4291.0,294839711930000.0,563360288070000.0,Adec. Sanitaria,Coyoacán
+22,2015.0,3.0,Pobreza moderada,Hombre,12-29,9131.0,610123796178000.0,121607620382000.0,Adec. Sanitaria,Coyoacán
+23,2015.0,3.0,Pobreza moderada,Hombre,60 y mas,4086.0,278145565067000.0,539054434933000.0,Adec. Sanitaria,Coyoacán
+24,2015.0,3.0,Pobreza moderada,Hombre,No especificado,44.0,-230629740359000.0,111062974036000.0,Adec. Sanitaria,Coyoacán
+25,2015.0,3.0,Pobreza moderada,Mujer,0-11,5136.0,325154933663000.0,702045066337000.0,Adec. Sanitaria,Coyoacán
+26,2015.0,3.0,Pobreza moderada,Mujer,12-29,7890.0,524919712756000.0,105308028724000.0,Adec. Sanitaria,Coyoacán
+27,2015.0,3.0,Pobreza moderada,Mujer,30-44,7402.0,486044460193000.0,994355539807000.0,Adec. Sanitaria,Coyoacán
+28,2015.0,3.0,Pobreza moderada,Mujer,60 y mas,5357.0,357836965722000.0,713563034278000.0,Adec. Sanitaria,Coyoacán
+29,2015.0,3.0,Satisfaccion mínima,Hombre,30-44,52168.0,45358484833500.0,58977515166500.0,Adec. Sanitaria,Coyoacán
+30,2015.0,3.0,Satisfaccion mínima,Hombre,60 y mas,37636.0,320748096956000.0,431971903044000.0,Adec. Sanitaria,Coyoacán
+31,2015.0,3.0,Satisfaccion mínima,Mujer,0-11,27157.0,234855354340000.0,308284645660000.0,Adec. Sanitaria,Coyoacán
+32,2015.0,3.0,Satisfaccion mínima,Mujer,60 y mas,53237.0,458098419545000.0,606641580455000.0,Adec. Sanitaria,Coyoacán
+33,2015.0,3.0,Satisfaccion mínima,Mujer,No especificado,666.0,306194761627000.0,102580523837000.0,Adec. Sanitaria,Coyoacán
+34,2015.0,4.0,Pobreza muy alta,Hombre,12-29,2626.0,17226898107800.0,35293101892200.0,Adec. Sanitaria,Cuajimalpa de Morelos
+35,2015.0,4.0,Pobreza muy alta,Hombre,30-44,1738.0,10365949700600.0,24394050299400.0,Adec. Sanitaria,Cuajimalpa de Morelos
+36,2015.0,4.0,Pobreza muy alta,Hombre,45-59,1067.0,654366061601000.0,147963393840000.0,Adec. Sanitaria,Cuajimalpa de Morelos
+37,2015.0,4.0,Pobreza muy alta,Mujer,60 y mas,667.0,354548942849000.0,979451057151000.0,Adec. Sanitaria,Cuajimalpa de Morelos
+38,2015.0,4.0,Pobreza alta,Hombre,0-11,2108.0,12366382321200.0,29793617678800.0,Adec. Sanitaria,Cuajimalpa de Morelos
+39,2015.0,4.0,Pobreza alta,Mujer,45-59,1072.0,661633049521000.0,148236695048000.0,Adec. Sanitaria,Cuajimalpa de Morelos
+40,2015.0,4.0,Pobreza moderada,Hombre,12-29,4790.0,317362710390000.0,640637289610000.0,Adec. Sanitaria,Cuajimalpa de Morelos
+41,2015.0,4.0,Pobreza moderada,Hombre,30-44,2751.0,168891009699000.0,381308990301000.0,Adec. Sanitaria,Cuajimalpa de Morelos
+42,2015.0,4.0,Satisfaccion mínima,Hombre,0-11,11706.0,908892386612000.0,143230761339000.0,Adec. Sanitaria,Cuajimalpa de Morelos
+43,2015.0,4.0,Satisfaccion mínima,Hombre,45-59,11911.0,889950708162000.0,149224929184000.0,Adec. Sanitaria,Cuajimalpa de Morelos
+44,2015.0,4.0,Satisfaccion mínima,Hombre,60 y mas,6639.0,494029886131000.0,833770113869000.0,Adec. Sanitaria,Cuajimalpa de Morelos
+45,2015.0,4.0,Satisfaccion mínima,Mujer,0-11,10172.0,753718428939000.0,128068157106000.0,Adec. Sanitaria,Cuajimalpa de Morelos
+46,2015.0,4.0,Satisfaccion mínima,Mujer,12-29,19557.0,148237629293000.0,242902370707000.0,Adec. Sanitaria,Cuajimalpa de Morelos
+47,2015.0,5.0,Pobreza muy alta,Hombre,12-29,9976.0,659307645837000.0,133589235416000.0,Adec. Sanitaria,Gustavo A. Madero
+48,2015.0,5.0,Pobreza muy alta,Hombre,30-44,7522.0,517029662894000.0,987370337106000.0,Adec. Sanitaria,Gustavo A. Madero
+49,2015.0,5.0,Pobreza muy alta,Hombre,No especificado,20.0,-234136566064000.0,634136566064000.0,Adec. Sanitaria,Gustavo A. Madero
+50,2015.0,5.0,Pobreza muy alta,Mujer,30-44,7901.0,527632070851000.0,105256792915000.0,Adec. Sanitaria,Gustavo A. Madero
+51,2015.0,5.0,Pobreza muy alta,Mujer,45-59,4449.0,272964706445000.0,616835293555000.0,Adec. Sanitaria,Gustavo A. Madero
+52,2015.0,5.0,Pobreza alta,Hombre,60 y mas,4223.0,2963912138930.0,5482087861070.0,Adec. Sanitaria,Gustavo A. Madero
+53,2015.0,5.0,Pobreza alta,Hombre,No especificado,69.0,-386508582976000.0,176650858298000.0,Adec. Sanitaria,Gustavo A. Madero
+54,2015.0,5.0,Pobreza alta,Mujer,0-11,9363.0,732845364807000.0,113975463519000.0,Adec. Sanitaria,Gustavo A. Madero
+55,2015.0,5.0,Pobreza alta,Mujer,12-29,12663.0,999929152321000.0,153267084768000.0,Adec. Sanitaria,Gustavo A. Madero
+56,2015.0,5.0,Pobreza alta,Mujer,45-59,6966.0,5207470801140.0,8724529198860.0,Adec. Sanitaria,Gustavo A. Madero
+57,2015.0,5.0,Pobreza moderada,Hombre,0-11,15618.0,12059033400400.0,19176966599600.0,Adec. Sanitaria,Gustavo A. Madero
+58,2015.0,5.0,Pobreza moderada,Mujer,No especificado,105.0,-236964668992000.0,233696466899000.0,Adec. Sanitaria,Gustavo A. Madero
+59,2015.0,5.0,Satisfaccion mínima,Hombre,12-29,116774.0,104378888743000.0,129169111257000.0,Adec. Sanitaria,Gustavo A. Madero
+60,2015.0,5.0,Satisfaccion mínima,Hombre,30-44,86446.0,778020757379000.0,950899242621000.0,Adec. Sanitaria,Gustavo A. Madero
+61,2015.0,5.0,Satisfaccion mínima,Hombre,45-59,76999.0,691435610504000.0,848544389496000.0,Adec. Sanitaria,Gustavo A. Madero
+62,2015.0,5.0,Satisfaccion mínima,Hombre,60 y mas,62267.0,549284241914000.0,696055758086000.0,Adec. Sanitaria,Gustavo A. Madero
+63,2015.0,5.0,Satisfaccion mínima,Mujer,45-59,92461.0,830877816893000.0,101834218311000.0,Adec. Sanitaria,Gustavo A. Madero
+64,2015.0,5.0,Satisfaccion mínima,Mujer,60 y mas,83426.0,746341005377000.0,922178994623000.0,Adec. Sanitaria,Gustavo A. Madero
+65,2015.0,5.0,Satisfaccion mínima,Mujer,No especificado,281.0,622063193549000.0,499793680645000.0,Adec. Sanitaria,Gustavo A. Madero
+66,2015.0,6.0,Pobreza muy alta,Hombre,30-44,1672.0,111709039427000.0,222690960573000.0,Adec. Sanitaria,Iztacalco
+67,2015.0,6.0,Pobreza muy alta,Mujer,12-29,2457.0,153793742362000.0,337606257638000.0,Adec. Sanitaria,Iztacalco
+68,2015.0,6.0,Pobreza muy alta,Mujer,30-44,1723.0,119575856240000.0,225024143760000.0,Adec. Sanitaria,Iztacalco
+69,2015.0,6.0,Pobreza alta,Hombre,0-11,1660.0,881178376701000.0,243882162330000.0,Adec. Sanitaria,Iztacalco
+70,2015.0,6.0,Pobreza alta,Hombre,30-44,1611.0,948503829639000.0,227349617036000.0,Adec. Sanitaria,Iztacalco
+71,2015.0,6.0,Pobreza alta,Hombre,60 y mas,714.0,268354744871000.0,115964525513000.0,Adec. Sanitaria,Iztacalco
+72,2015.0,6.0,Pobreza alta,Mujer,0-11,1442.0,754214921796000.0,212978507820000.0,Adec. Sanitaria,Iztacalco
+73,2015.0,6.0,Pobreza alta,Mujer,45-59,1705.0,105692746054000.0,235307253946000.0,Adec. Sanitaria,Iztacalco
+74,2015.0,6.0,Pobreza moderada,Hombre,45-59,3166.0,20119843572300.0,43200156427700.0,Adec. Sanitaria,Iztacalco
+75,2015.0,6.0,Pobreza moderada,Mujer,12-29,5541.0,429517494339000.0,678682505661000.0,Adec. Sanitaria,Iztacalco
+76,2015.0,6.0,Satisfaccion mínima,Hombre,0-11,21681.0,175528084949000.0,258091915051000.0,Adec. Sanitaria,Iztacalco
+77,2015.0,6.0,Satisfaccion mínima,Hombre,12-29,42511.0,357189313799000.0,493030686201000.0,Adec. Sanitaria,Iztacalco
+78,2015.0,6.0,Satisfaccion mínima,Hombre,30-44,36003.0,308129758541000.0,411930241459000.0,Adec. Sanitaria,Iztacalco
+79,2015.0,6.0,Satisfaccion mínima,Hombre,60 y mas,20268.0,170850857962000.0,234509142038000.0,Adec. Sanitaria,Iztacalco
+80,2015.0,7.0,Pobreza muy alta,Hombre,0-11,16162.0,110088318602000.0,213151681398000.0,Adec. Sanitaria,Iztapalapa
+81,2015.0,7.0,Pobreza muy alta,Hombre,12-29,22012.0,159338629617000.0,280901370383000.0,Adec. Sanitaria,Iztapalapa
+82,2015.0,7.0,Pobreza muy alta,Hombre,60 y mas,3932.0,301072258859000.0,485327741141000.0,Adec. Sanitaria,Iztapalapa
+83,2015.0,7.0,Pobreza muy alta,Mujer,45-59,8934.0,743383432030000.0,104341656797000.0,Adec. Sanitaria,Iztapalapa
+84,2015.0,7.0,Pobreza muy alta,Mujer,60 y mas,6166.0,485922436288000.0,747277563712000.0,Adec. Sanitaria,Iztapalapa
+85,2015.0,7.0,Pobreza alta,Hombre,60 y mas,7237.0,57070284653700.0,87669715346300.0,Adec. Sanitaria,Iztapalapa
+86,2015.0,7.0,Pobreza alta,Mujer,0-11,18481.0,14998007988600.0,21963992011400.0,Adec. Sanitaria,Iztapalapa
+87,2015.0,7.0,Pobreza alta,Mujer,60 y mas,8626.0,711438031883000.0,101376196812000.0,Adec. Sanitaria,Iztapalapa
+88,2015.0,7.0,Pobreza moderada,Hombre,0-11,30630.0,256474955246000.0,356125044754000.0,Adec. Sanitaria,Iztapalapa
+89,2015.0,7.0,Pobreza moderada,Hombre,No especificado,102.0,-175836310501000.0,221583631050000.0,Adec. Sanitaria,Iztapalapa
+90,2015.0,7.0,Pobreza moderada,Mujer,0-11,31524.0,271674910913000.0,358805089087000.0,Adec. Sanitaria,Iztapalapa
+91,2015.0,7.0,Pobreza moderada,Mujer,12-29,48977.0,43240194122100.0,54713805877900.0,Adec. Sanitaria,Iztapalapa
+92,2015.0,7.0,Satisfaccion mínima,Mujer,12-29,169011.0,155995801156000.0,182026198844000.0,Adec. Sanitaria,Iztapalapa
+93,2015.0,7.0,Satisfaccion mínima,Mujer,60 y mas,91481.0,818139656194000.0,101148034381000.0,Adec. Sanitaria,Iztapalapa
+94,2015.0,8.0,Pobreza muy alta,Hombre,30-44,1499.0,893828989424000.0,210417101058000.0,Adec. Sanitaria,La Magdalena Contreras
+95,2015.0,8.0,Pobreza muy alta,Hombre,60 y mas,811.0,460566059350000.0,116143394065000.0,Adec. Sanitaria,La Magdalena Contreras
+96,2015.0,8.0,Pobreza muy alta,Mujer,No especificado,20.0,-211132832308000.0,611132832308000.0,Adec. Sanitaria,La Magdalena Contreras
+97,2015.0,8.0,Pobreza alta,Hombre,30-44,1982.0,145676890288000.0,250723109712000.0,Adec. Sanitaria,La Magdalena Contreras
+98,2015.0,8.0,Pobreza alta,Mujer,12-29,3071.0,200664564283000.0,413535435717000.0,Adec. Sanitaria,La Magdalena Contreras
+99,2015.0,8.0,Pobreza alta,Mujer,30-44,2546.0,180812577869000.0,328387422131000.0,Adec. Sanitaria,La Magdalena Contreras
+100,2015.0,8.0,Pobreza moderada,Hombre,12-29,5814.0,394062483043000.0,768737516957000.0,Adec. Sanitaria,La Magdalena Contreras
+101,2015.0,8.0,Pobreza moderada,Mujer,0-11,3493.0,236665531869000.0,461934468131000.0,Adec. Sanitaria,La Magdalena Contreras
+102,2015.0,8.0,Pobreza moderada,Mujer,12-29,6144.0,429623796126000.0,799176203874000.0,Adec. Sanitaria,La Magdalena Contreras
+103,2015.0,8.0,Pobreza moderada,Mujer,30-44,4748.0,353146047917000.0,596453952083000.0,Adec. Sanitaria,La Magdalena Contreras
+104,2015.0,8.0,Pobreza moderada,Mujer,45-59,3837.0,262349707605000.0,505050292395000.0,Adec. Sanitaria,La Magdalena Contreras
+105,2015.0,8.0,Pobreza moderada,Mujer,60 y mas,2182.0,161668172490000.0,274731827510000.0,Adec. Sanitaria,La Magdalena Contreras
+106,2015.0,8.0,Pobreza moderada,Mujer,No especificado,24.0,-262772509246000.0,742772509246000.0,Adec. Sanitaria,La Magdalena Contreras
+107,2015.0,8.0,Satisfaccion mínima,Hombre,0-11,13889.0,108594974136000.0,169185025864000.0,Adec. Sanitaria,La Magdalena Contreras
+108,2015.0,8.0,Satisfaccion mínima,Hombre,60 y mas,10093.0,804158112432000.0,121444188757000.0,Adec. Sanitaria,La Magdalena Contreras
+109,2015.0,8.0,Satisfaccion mínima,Mujer,12-29,22776.0,185871270917000.0,269648729083000.0,Adec. Sanitaria,La Magdalena Contreras
+110,2015.0,8.0,Satisfaccion mínima,Mujer,60 y mas,12980.0,10522761971700.0,15437238028300.0,Adec. Sanitaria,La Magdalena Contreras
+111,2015.0,9.0,Pobreza muy alta,Hombre,30-44,3766.0,203381183944000.0,549818816056000.0,Adec. Sanitaria,Milpa Alta
+112,2015.0,9.0,Pobreza muy alta,Hombre,60 y mas,898.0,555698563321000.0,124030143668000.0,Adec. Sanitaria,Milpa Alta
+113,2015.0,9.0,Pobreza muy alta,Mujer,12-29,5502.0,313062697221000.0,787337302779000.0,Adec. Sanitaria,Milpa Alta
+114,2015.0,9.0,Pobreza muy alta,Mujer,45-59,2391.0,131767483299000.0,346432516701000.0,Adec. Sanitaria,Milpa Alta
+115,2015.0,9.0,Pobreza alta,Hombre,0-11,2987.0,203620135839000.0,393779864161000.0,Adec. Sanitaria,Milpa Alta
+116,2015.0,9.0,Pobreza alta,Hombre,45-59,1759.0,114353361340000.0,237446638660000.0,Adec. Sanitaria,Milpa Alta
+117,2015.0,9.0,Pobreza alta,Mujer,0-11,2643.0,182200054465000.0,346399945535000.0,Adec. Sanitaria,Milpa Alta
+118,2015.0,9.0,Pobreza alta,Mujer,30-44,3100.0,214100869246000.0,405899130754000.0,Adec. Sanitaria,Milpa Alta
+119,2015.0,9.0,Pobreza moderada,Hombre,0-11,4018.0,222419427424000.0,581180572576000.0,Adec. Sanitaria,Milpa Alta
+120,2015.0,9.0,Pobreza moderada,Hombre,30-44,3727.0,208756086154000.0,536643913846000.0,Adec. Sanitaria,Milpa Alta
+121,2015.0,9.0,Pobreza moderada,Mujer,12-29,5894.0,336042057781000.0,842757942219000.0,Adec. Sanitaria,Milpa Alta
+122,2015.0,9.0,Pobreza moderada,Mujer,45-59,2834.0,170581506876000.0,396218493124000.0,Adec. Sanitaria,Milpa Alta
+123,2015.0,9.0,Satisfaccion mínima,Hombre,12-29,6304.0,415123145611000.0,845676854389000.0,Adec. Sanitaria,Milpa Alta
+124,2015.0,9.0,Satisfaccion mínima,Hombre,45-59,3533.0,23628071287500.0,47031928712500.0,Adec. Sanitaria,Milpa Alta
+125,2015.0,10.0,Pobreza muy alta,Hombre,12-29,5073.0,33811717700700.0,67648282299300.0,Adec. Sanitaria,Álvaro Obregón
+126,2015.0,10.0,Pobreza muy alta,Hombre,No especificado,81.0,-827140134518000.0,244714013452000.0,Adec. Sanitaria,Álvaro Obregón
+127,2015.0,10.0,Pobreza muy alta,Mujer,0-11,3006.0,179615897497000.0,421584102503000.0,Adec. Sanitaria,Álvaro Obregón
+128,2015.0,10.0,Pobreza muy alta,Mujer,45-59,3013.0,21188882460300.0,39071117539700.0,Adec. Sanitaria,Álvaro Obregón
+129,2015.0,10.0,Pobreza muy alta,Mujer,60 y mas,2143.0,148735615166000.0,279864384834000.0,Adec. Sanitaria,Álvaro Obregón
+130,2015.0,10.0,Pobreza muy alta,Mujer,No especificado,37.0,-102993761873000.0,842993761873000.0,Adec. Sanitaria,Álvaro Obregón
+131,2015.0,10.0,Pobreza alta,Hombre,0-11,3806.0,290634579312000.0,470565420688000.0,Adec. Sanitaria,Álvaro Obregón
+132,2015.0,10.0,Pobreza alta,Hombre,30-44,4529.0,283444005880000.0,622355994120000.0,Adec. Sanitaria,Álvaro Obregón
+133,2015.0,10.0,Pobreza alta,Hombre,No especificado,17.0,-128540750535000.0,468540750535000.0,Adec. Sanitaria,Álvaro Obregón
+134,2015.0,10.0,Pobreza alta,Mujer,30-44,4086.0,267975188952000.0,549224811048000.0,Adec. Sanitaria,Álvaro Obregón
+135,2015.0,10.0,Pobreza alta,Mujer,60 y mas,1998.0,121733634124000.0,277866365876000.0,Adec. Sanitaria,Álvaro Obregón
+136,2015.0,10.0,Pobreza moderada,Hombre,0-11,9809.0,812614802706000.0,114918519729000.0,Adec. Sanitaria,Álvaro Obregón
+137,2015.0,10.0,Pobreza moderada,Mujer,0-11,10278.0,805559044832000.0,125004095517000.0,Adec. Sanitaria,Álvaro Obregón
+138,2015.0,10.0,Pobreza moderada,Mujer,12-29,16328.0,128509374609000.0,198050625391000.0,Adec. Sanitaria,Álvaro Obregón
+139,2015.0,10.0,Satisfaccion mínima,Hombre,12-29,72889.0,637161971509000.0,820618028491000.0,Adec. Sanitaria,Álvaro Obregón
+140,2015.0,10.0,Satisfaccion mínima,Hombre,45-59,47597.0,420238100414000.0,531701899586000.0,Adec. Sanitaria,Álvaro Obregón
+141,2015.0,10.0,Satisfaccion mínima,Mujer,12-29,74180.0,645741147668000.0,837858852332000.0,Adec. Sanitaria,Álvaro Obregón
+142,2015.0,10.0,Satisfaccion mínima,Mujer,30-44,71142.0,609189645869000.0,813650354131000.0,Adec. Sanitaria,Álvaro Obregón
+143,2015.0,10.0,Satisfaccion mínima,Mujer,45-59,56579.0,497726927138000.0,633853072862000.0,Adec. Sanitaria,Álvaro Obregón
+144,2015.0,11.0,Pobreza muy alta,Hombre,0-11,3351.0,21956353054700.0,45063646945300.0,Adec. Sanitaria,Tláhuac
+145,2015.0,11.0,Pobreza muy alta,Hombre,60 y mas,910.0,454371748136000.0,136562825186000.0,Adec. Sanitaria,Tláhuac
+146,2015.0,11.0,Pobreza muy alta,Mujer,12-29,4333.0,318843790611000.0,547756209389000.0,Adec. Sanitaria,Tláhuac
+147,2015.0,11.0,Pobreza muy alta,Mujer,30-44,3460.0,202996458710000.0,489003541290000.0,Adec. Sanitaria,Tláhuac
+148,2015.0,11.0,Pobreza muy alta,Mujer,45-59,1782.0,106719700996000.0,249680299004000.0,Adec. Sanitaria,Tláhuac
+149,2015.0,11.0,Pobreza muy alta,Mujer,60 y mas,1275.0,65482726798000.0,189517273202000.0,Adec. Sanitaria,Tláhuac
+150,2015.0,11.0,Pobreza muy alta,Mujer,No especificado,14.0,-172560518687000.0,452560518687000.0,Adec. Sanitaria,Tláhuac
+151,2015.0,11.0,Pobreza alta,Hombre,60 y mas,2102.0,130813872223000.0,289586127777000.0,Adec. Sanitaria,Tláhuac
+152,2015.0,11.0,Pobreza alta,Mujer,30-44,5922.0,450765504610000.0,733634495390000.0,Adec. Sanitaria,Tláhuac
+153,2015.0,11.0,Pobreza moderada,Hombre,60 y mas,3474.0,257550027846000.0,437249972154000.0,Adec. Sanitaria,Tláhuac
+154,2015.0,11.0,Pobreza moderada,Mujer,0-11,6931.0,536035615015000.0,850164384985000.0,Adec. Sanitaria,Tláhuac
+155,2015.0,11.0,Pobreza moderada,Mujer,12-29,11564.0,919593229343000.0,139320677066000.0,Adec. Sanitaria,Tláhuac
+156,2015.0,11.0,Pobreza moderada,Mujer,45-59,6529.0,492539577873000.0,813260422127000.0,Adec. Sanitaria,Tláhuac
+157,2015.0,11.0,Satisfaccion mínima,Mujer,12-29,32684.0,282904171919000.0,370775828081000.0,Adec. Sanitaria,Tláhuac
+158,2015.0,11.0,Satisfaccion mínima,Mujer,30-44,27150.0,240444311769000.0,302555688231000.0,Adec. Sanitaria,Tláhuac
+159,2015.0,11.0,Satisfaccion mínima,Mujer,45-59,21350.0,183563168016000.0,243436831984000.0,Adec. Sanitaria,Tláhuac
+160,2015.0,12.0,Pobreza muy alta,Hombre,0-11,13568.0,100474306404000.0,170885693596000.0,Adec. Sanitaria,Tlalpan
+161,2015.0,12.0,Pobreza muy alta,Hombre,30-44,14412.0,112760918445000.0,175479081555000.0,Adec. Sanitaria,Tlalpan
+162,2015.0,12.0,Pobreza muy alta,Hombre,No especificado,6.0,-401075855320000.0,160107585532000.0,Adec. Sanitaria,Tlalpan
+163,2015.0,12.0,Pobreza muy alta,Mujer,12-29,20108.0,152463229335000.0,249696770665000.0,Adec. Sanitaria,Tlalpan
+164,2015.0,12.0,Pobreza muy alta,Mujer,30-44,14576.0,110657652330000.0,180862347670000.0,Adec. Sanitaria,Tlalpan
+165,2015.0,12.0,Pobreza muy alta,Mujer,60 y mas,4612.0,35307933664300.0,56932066335700.0,Adec. Sanitaria,Tlalpan
+166,2015.0,12.0,Pobreza alta,Hombre,12-29,8970.0,649777052029000.0,11442229479700.0,Adec. Sanitaria,Tlalpan
+167,2015.0,12.0,Pobreza alta,Mujer,12-29,9656.0,679140125665000.0,125205987434000.0,Adec. Sanitaria,Tlalpan
+168,2015.0,12.0,Pobreza alta,Mujer,30-44,7081.0,545719590203000.0,870480409797000.0,Adec. Sanitaria,Tlalpan
+169,2015.0,12.0,Pobreza alta,Mujer,45-59,4331.0,327452354922000.0,538747645078000.0,Adec. Sanitaria,Tlalpan
+170,2015.0,12.0,Pobreza moderada,Hombre,12-29,11249.0,93606732532400.0,131373267468000.0,Adec. Sanitaria,Tlalpan
+171,2015.0,12.0,Pobreza moderada,Hombre,45-59,5218.0,40863373165200.0,63496626834800.0,Adec. Sanitaria,Tlalpan
+172,2015.0,12.0,Pobreza moderada,Mujer,30-44,9169.0,751864205584000.0,108193579442000.0,Adec. Sanitaria,Tlalpan
+173,2015.0,12.0,Pobreza moderada,Mujer,45-59,7082.0,552080047965000.0,864319952035000.0,Adec. Sanitaria,Tlalpan
+174,2015.0,12.0,Pobreza moderada,Mujer,60 y mas,4758.0,363486963118000.0,588113036882000.0,Adec. Sanitaria,Tlalpan
+175,2015.0,12.0,Pobreza moderada,Mujer,No especificado,13.0,-136726104691000.0,396726104691000.0,Adec. Sanitaria,Tlalpan
+176,2015.0,12.0,Satisfaccion mínima,Hombre,30-44,46179.0,395335573158000.0,528244426842000.0,Adec. Sanitaria,Tlalpan
+177,2015.0,12.0,Satisfaccion mínima,Mujer,12-29,53679.0,461011026236000.0,612568973764000.0,Adec. Sanitaria,Tlalpan
+178,2015.0,13.0,Pobreza muy alta,Mujer,12-29,11622.0,862166927171000.0,146223307283000.0,Adec. Sanitaria,Xochimilco
+179,2015.0,13.0,Pobreza muy alta,Mujer,45-59,4698.0,366328409357000.0,573271590643000.0,Adec. Sanitaria,Xochimilco
+180,2015.0,13.0,Pobreza alta,Hombre,0-11,6373.0,441164738228000.0,833435261772000.0,Adec. Sanitaria,Xochimilco
+181,2015.0,13.0,Pobreza alta,Hombre,30-44,6537.0,427409536211000.0,879990463789000.0,Adec. Sanitaria,Xochimilco
+182,2015.0,13.0,Pobreza alta,Mujer,30-44,7832.0,516470558838000.0,104992944116000.0,Adec. Sanitaria,Xochimilco
+183,2015.0,13.0,Pobreza moderada,Hombre,0-11,9595.0,605213422594000.0,131378657741000.0,Adec. Sanitaria,Xochimilco
+184,2015.0,13.0,Pobreza moderada,Hombre,60 y mas,3805.0,244390817084000.0,516609182916000.0,Adec. Sanitaria,Xochimilco
+185,2015.0,13.0,Pobreza moderada,Mujer,30-44,11344.0,689898099161000.0,157890190084000.0,Adec. Sanitaria,Xochimilco
+186,2015.0,13.0,Pobreza moderada,Mujer,No especificado,20.0,-131426321383000.0,531426321383000.0,Adec. Sanitaria,Xochimilco
+187,2015.0,13.0,Satisfaccion mínima,Hombre,0-11,15265.0,107588697113000.0,197711302887000.0,Adec. Sanitaria,Xochimilco
+188,2015.0,13.0,Satisfaccion mínima,Hombre,12-29,27266.0,196900901593000.0,348419098407000.0,Adec. Sanitaria,Xochimilco
+189,2015.0,13.0,Satisfaccion mínima,Hombre,30-44,21020.0,16296202171100.0,25743797828900.0,Adec. Sanitaria,Xochimilco
+190,2015.0,13.0,Satisfaccion mínima,Hombre,60 y mas,12805.0,100152666848000.0,155947333152000.0,Adec. Sanitaria,Xochimilco
+191,2015.0,13.0,Satisfaccion mínima,Mujer,0-11,14406.0,102142873455000.0,185977126545000.0,Adec. Sanitaria,Xochimilco
+192,2015.0,13.0,Satisfaccion mínima,Mujer,12-29,26690.0,189755460525000.0,344044539475000.0,Adec. Sanitaria,Xochimilco
+193,2015.0,13.0,Satisfaccion mínima,Mujer,30-44,24728.0,181131499924000.0,313428500076000.0,Adec. Sanitaria,Xochimilco
+194,2015.0,13.0,Satisfaccion mínima,Mujer,45-59,20549.0,153451739342000.0,257528260658000.0,Adec. Sanitaria,Xochimilco
+195,2015.0,14.0,Pobreza muy alta,Hombre,0-11,663.0,224127332402000.0,130358726676000.0,Adec. Sanitaria,Benito Juárez
+196,2015.0,14.0,Pobreza muy alta,Hombre,60 y mas,462.0,-292413622813000.0,95324136228100.0,Adec. Sanitaria,Benito Juárez
+197,2015.0,14.0,Pobreza muy alta,Mujer,12-29,1542.0,378670174866000.0,270532982513000.0,Adec. Sanitaria,Benito Juárez
+198,2015.0,14.0,Pobreza alta,Hombre,0-11,645.0,-2840124363060.0,15740124363100.0,Adec. Sanitaria,Benito Juárez
+199,2015.0,14.0,Pobreza alta,Hombre,30-44,630.0,-963783008874000.0,135637830089000.0,Adec. Sanitaria,Benito Juárez
+200,2015.0,14.0,Pobreza alta,Mujer,0-11,277.0,340166743071000.0,519983325693000.0,Adec. Sanitaria,Benito Juárez
+201,2015.0,14.0,Pobreza alta,Mujer,60 y mas,813.0,324013917550000.0,130198608245000.0,Adec. Sanitaria,Benito Juárez
+202,2015.0,14.0,Pobreza moderada,Mujer,12-29,1533.0,657760269868000.0,240823973013000.0,Adec. Sanitaria,Benito Juárez
+203,2015.0,14.0,Pobreza moderada,Mujer,30-44,1609.0,867920419417000.0,23500795805800.0,Adec. Sanitaria,Benito Juárez
+204,2015.0,14.0,Pobreza moderada,Mujer,45-59,1575.0,86037909466200.0,228962090534000.0,Adec. Sanitaria,Benito Juárez
+205,2015.0,14.0,Pobreza moderada,Mujer,No especificado,17.0,-267179078535000.0,607179078535000.0,Adec. Sanitaria,Benito Juárez
+206,2015.0,14.0,Satisfaccion mínima,Hombre,30-44,49139.0,421553472439000.0,561226527561000.0,Adec. Sanitaria,Benito Juárez
+207,2015.0,14.0,Satisfaccion mínima,Mujer,30-44,56441.0,485134765297000.0,643685234703000.0,Adec. Sanitaria,Benito Juárez
+208,2015.0,14.0,Satisfaccion mínima,Mujer,45-59,40992.0,341389311219000.0,478450688781000.0,Adec. Sanitaria,Benito Juárez
+209,2015.0,14.0,Satisfaccion mínima,Mujer,60 y mas,44678.0,375419037427000.0,518140962573000.0,Adec. Sanitaria,Benito Juárez
+210,2015.0,14.0,Satisfaccion mínima,Mujer,No especificado,6.0,-838139771137000.0,203813977114000.0,Adec. Sanitaria,Benito Juárez
+211,2015.0,15.0,Pobreza muy alta,Hombre,30-44,1669.0,962501648072000.0,237549835193000.0,Adec. Sanitaria,Cuauhtémoc
+212,2015.0,15.0,Pobreza muy alta,Hombre,60 y mas,1112.0,566722399707000.0,165727760029000.0,Adec. Sanitaria,Cuauhtémoc
+213,2015.0,15.0,Pobreza muy alta,Mujer,12-29,3186.0,170382584671000.0,466817415329000.0,Adec. Sanitaria,Cuauhtémoc
+214,2015.0,15.0,Pobreza alta,Hombre,12-29,2685.0,163752533803000.0,373247466197000.0,Adec. Sanitaria,Cuauhtémoc
+215,2015.0,15.0,Pobreza alta,Hombre,45-59,1525.0,813694100676000.0,223630589932000.0,Adec. Sanitaria,Cuauhtémoc
+216,2015.0,15.0,Pobreza alta,Mujer,12-29,2853.0,191600598376000.0,378999401624000.0,Adec. Sanitaria,Cuauhtémoc
+217,2015.0,15.0,Pobreza moderada,Hombre,0-11,3796.0,220925963977000.0,538274036023000.0,Adec. Sanitaria,Cuauhtémoc
+218,2015.0,15.0,Pobreza moderada,Hombre,12-29,6321.0,370846940847000.0,893353059153000.0,Adec. Sanitaria,Cuauhtémoc
+219,2015.0,15.0,Pobreza moderada,Mujer,60 y mas,4097.0,212442568019000.0,606957431981000.0,Adec. Sanitaria,Cuauhtémoc
+220,2015.0,15.0,Satisfaccion mínima,Hombre,30-44,56141.0,486302165598000.0,636517834402000.0,Adec. Sanitaria,Cuauhtémoc
+221,2015.0,15.0,Satisfaccion mínima,Hombre,60 y mas,28121.0,237925718104000.0,324494281896000.0,Adec. Sanitaria,Cuauhtémoc
+222,2015.0,15.0,Satisfaccion mínima,Hombre,No especificado,47.0,-114250023367000.0,105425002337000.0,Adec. Sanitaria,Cuauhtémoc
+223,2015.0,15.0,Satisfaccion mínima,Mujer,0-11,26505.0,226762176452000.0,303337823548000.0,Adec. Sanitaria,Cuauhtémoc
+224,2015.0,15.0,Satisfaccion mínima,Mujer,12-29,58198.0,502363602863000.0,661596397137000.0,Adec. Sanitaria,Cuauhtémoc
+225,2015.0,15.0,Satisfaccion mínima,Mujer,30-44,60011.0,509239700350000.0,690980299650000.0,Adec. Sanitaria,Cuauhtémoc
+226,2015.0,15.0,Satisfaccion mínima,Mujer,No especificado,92.0,232979820487000.0,160702017951000.0,Adec. Sanitaria,Cuauhtémoc
+227,2015.0,16.0,Pobreza muy alta,Hombre,12-29,1530.0,477132680220000.0,258286731978000.0,Adec. Sanitaria,Miguel Hidalgo
+228,2015.0,16.0,Pobreza muy alta,Mujer,12-29,1317.0,474518979940000.0,215948102006000.0,Adec. Sanitaria,Miguel Hidalgo
+229,2015.0,16.0,Pobreza muy alta,Mujer,45-59,1036.0,61112409799400.0,146087590201000.0,Adec. Sanitaria,Miguel Hidalgo
+230,2015.0,16.0,Pobreza alta,Hombre,0-11,984.0,30247806721800.0,166552193278000.0,Adec. Sanitaria,Miguel Hidalgo
+231,2015.0,16.0,Pobreza alta,Hombre,30-44,1160.0,448482666456000.0,187151733354000.0,Adec. Sanitaria,Miguel Hidalgo
+232,2015.0,16.0,Pobreza alta,Mujer,12-29,1649.0,694050217792000.0,260394978221000.0,Adec. Sanitaria,Miguel Hidalgo
+233,2015.0,16.0,Pobreza moderada,Hombre,30-44,2292.0,143825387330000.0,314574612670000.0,Adec. Sanitaria,Miguel Hidalgo
+234,2015.0,16.0,Pobreza moderada,Hombre,45-59,2106.0,118231169412000.0,302968830588000.0,Adec. Sanitaria,Miguel Hidalgo
+235,2015.0,16.0,Pobreza moderada,Hombre,No especificado,25.0,-301068682022000.0,801068682022000.0,Adec. Sanitaria,Miguel Hidalgo
+236,2015.0,16.0,Pobreza moderada,Mujer,0-11,1717.0,863036687810000.0,257096331219000.0,Adec. Sanitaria,Miguel Hidalgo
+237,2015.0,16.0,Pobreza moderada,Mujer,12-29,2528.0,135165551577000.0,370434448423000.0,Adec. Sanitaria,Miguel Hidalgo
+238,2015.0,16.0,Pobreza moderada,Mujer,30-44,2868.0,17786994964100.0,39573005035900.0,Adec. Sanitaria,Miguel Hidalgo
+239,2015.0,16.0,Pobreza moderada,Mujer,45-59,2315.0,115361060839000.0,347638939161000.0,Adec. Sanitaria,Miguel Hidalgo
+240,2015.0,16.0,Pobreza moderada,Mujer,60 y mas,2146.0,108208159633000.0,320991840367000.0,Adec. Sanitaria,Miguel Hidalgo
+241,2015.0,16.0,Satisfaccion mínima,Hombre,30-44,39548.0,270469459115000.0,520490540885000.0,Adec. Sanitaria,Miguel Hidalgo
+242,2015.0,16.0,Satisfaccion mínima,Mujer,0-11,20167.0,133505046125000.0,269834953875000.0,Adec. Sanitaria,Miguel Hidalgo
+243,2015.0,17.0,Pobreza muy alta,Hombre,0-11,1116.0,366058303111000.0,186594169689000.0,Adec. Sanitaria,Venustiano Carranza
+244,2015.0,17.0,Pobreza muy alta,Hombre,12-29,1931.0,120341786403000.0,265858213597000.0,Adec. Sanitaria,Venustiano Carranza
+245,2015.0,17.0,Pobreza muy alta,Hombre,30-44,1108.0,476025013007000.0,173997498699000.0,Adec. Sanitaria,Venustiano Carranza
+246,2015.0,17.0,Pobreza alta,Hombre,0-11,1335.0,593729503987000.0,207627049601000.0,Adec. Sanitaria,Venustiano Carranza
+247,2015.0,17.0,Pobreza alta,Mujer,0-11,1455.0,658443055348000.0,225155694465000.0,Adec. Sanitaria,Venustiano Carranza
+248,2015.0,17.0,Pobreza alta,Mujer,12-29,2336.0,1367092061220.0,3304907938780.0,Adec. Sanitaria,Venustiano Carranza
+249,2015.0,17.0,Pobreza alta,Mujer,60 y mas,1200.0,61888449635100.0,178111550365000.0,Adec. Sanitaria,Venustiano Carranza
+250,2015.0,17.0,Pobreza moderada,Hombre,0-11,3806.0,252018856269000.0,509181143731000.0,Adec. Sanitaria,Venustiano Carranza
+251,2015.0,17.0,Pobreza moderada,Mujer,0-11,3230.0,18990701163400.0,45609298836600.0,Adec. Sanitaria,Venustiano Carranza
+252,2015.0,17.0,Pobreza moderada,Mujer,60 y mas,3867.0,245088147285000.0,528311852715000.0,Adec. Sanitaria,Venustiano Carranza
+253,2015.0,17.0,Satisfaccion mínima,Hombre,0-11,25878.0,212820365282000.0,304739634718000.0,Adec. Sanitaria,Venustiano Carranza
+254,2015.0,17.0,Satisfaccion mínima,Hombre,30-44,39547.0,339513722533000.0,451426277467000.0,Adec. Sanitaria,Venustiano Carranza
+255,2015.0,17.0,Satisfaccion mínima,Hombre,45-59,31584.0,276158860769000.0,355521139231000.0,Adec. Sanitaria,Venustiano Carranza
+256,2015.0,2.0,Pobreza muy alta,Hombre,0-11,1122.0,663751273670000.0,158024872633000.0,Adec. Sanitaria,Azcapotzalco
+257,2015.0,2.0,Pobreza muy alta,Mujer,0-11,1197.0,660614909403000.0,173338509060000.0,Adec. Sanitaria,Azcapotzalco
+258,2015.0,2.0,Pobreza alta,Hombre,60 y mas,1016.0,346248245130000.0,168575175487000.0,Adec. Sanitaria,Azcapotzalco
+259,2015.0,2.0,Pobreza alta,Mujer,30-44,2140.0,132245207229000.0,295754792771000.0,Adec. Sanitaria,Azcapotzalco
+260,2015.0,2.0,Pobreza alta,Mujer,45-59,1895.0,105554304632000.0,273445695368000.0,Adec. Sanitaria,Azcapotzalco
+261,2015.0,2.0,Pobreza moderada,Hombre,60 y mas,1756.0,114900702747000.0,236299297253000.0,Adec. Sanitaria,Azcapotzalco
+262,2015.0,2.0,Pobreza moderada,Mujer,45-59,3462.0,240015244532000.0,452384755468000.0,Adec. Sanitaria,Azcapotzalco
+263,2015.0,2.0,Satisfaccion mínima,Hombre,30-44,35591.0,302300731710000.0,409519268290000.0,Adec. Sanitaria,Azcapotzalco
+264,2015.0,2.0,Satisfaccion mínima,Hombre,45-59,29248.0,255377739590000.0,329582260410000.0,Adec. Sanitaria,Azcapotzalco
+265,2015.0,2.0,Satisfaccion mínima,Hombre,No especificado,50.0,-266497889683000.0,126649788968000.0,Adec. Sanitaria,Azcapotzalco
+266,2015.0,3.0,Pobreza muy alta,Hombre,0-11,2337.0,161661846970000.0,305738153030000.0,Adec. Sanitaria,Coyoacán
+267,2015.0,3.0,Pobreza muy alta,Hombre,45-59,2269.0,149169532891000.0,304630467109000.0,Adec. Sanitaria,Coyoacán
+268,2015.0,3.0,Pobreza muy alta,Mujer,12-29,4415.0,324811296385000.0,558188703615000.0,Adec. Sanitaria,Coyoacán
+269,2015.0,3.0,Pobreza alta,Hombre,45-59,2130.0,14043875752900.0,28556124247100.0,Adec. Sanitaria,Coyoacán
+270,2015.0,3.0,Pobreza alta,Mujer,0-11,2122.0,124446331514000.0,299953668486000.0,Adec. Sanitaria,Coyoacán
+271,2015.0,3.0,Pobreza alta,Mujer,30-44,2988.0,21548692539900.0,38211307460100.0,Adec. Sanitaria,Coyoacán
+272,2015.0,3.0,Pobreza alta,Mujer,45-59,2457.0,150081529149000.0,341318470851000.0,Adec. Sanitaria,Coyoacán
+273,2015.0,3.0,Pobreza moderada,Hombre,0-11,5156.0,297625734947000.0,733574265053000.0,Adec. Sanitaria,Coyoacán
+274,2015.0,3.0,Pobreza moderada,Hombre,45-59,4795.0,33985736630600.0,61914263369400.0,Adec. Sanitaria,Coyoacán
+275,2015.0,3.0,Pobreza moderada,Mujer,45-59,5784.0,403548731834000.0,753251268166000.0,Adec. Sanitaria,Coyoacán
+276,2015.0,3.0,Pobreza moderada,Mujer,No especificado,13.0,-119182505751000.0,379182505751000.0,Adec. Sanitaria,Coyoacán
+277,2015.0,3.0,Satisfaccion mínima,Hombre,45-59,43269.0,368219192459000.0,497160807541000.0,Adec. Sanitaria,Coyoacán
+278,2015.0,3.0,Satisfaccion mínima,Hombre,No especificado,1079.0,178048894034000.0,197995110597000.0,Adec. Sanitaria,Coyoacán
+279,2015.0,3.0,Satisfaccion mínima,Mujer,45-59,53996.0,459375999191000.0,620544000809000.0,Adec. Sanitaria,Coyoacán
+280,2015.0,4.0,Pobreza muy alta,Mujer,12-29,2655.0,168832265428000.0,362167734572000.0,Adec. Sanitaria,Cuajimalpa de Morelos
+281,2015.0,4.0,Pobreza muy alta,Mujer,45-59,1022.0,611551559125000.0,143244844087000.0,Adec. Sanitaria,Cuajimalpa de Morelos
+282,2015.0,4.0,Pobreza alta,Hombre,12-29,2650.0,162713624895000.0,367286375105000.0,Adec. Sanitaria,Cuajimalpa de Morelos
+283,2015.0,4.0,Pobreza alta,Hombre,30-44,1882.0,115210058356000.0,261189941644000.0,Adec. Sanitaria,Cuajimalpa de Morelos
+284,2015.0,4.0,Pobreza alta,Hombre,45-59,847.0,474939993891000.0,121906000611000.0,Adec. Sanitaria,Cuajimalpa de Morelos
+285,2015.0,4.0,Pobreza alta,Mujer,0-11,1703.0,999441361044000.0,240655863896000.0,Adec. Sanitaria,Cuajimalpa de Morelos
+286,2015.0,4.0,Pobreza alta,Mujer,30-44,1928.0,1185719903140.0,2670280096860.0,Adec. Sanitaria,Cuajimalpa de Morelos
+287,2015.0,4.0,Pobreza alta,Mujer,60 y mas,469.0,185361367585000.0,752638632415000.0,Adec. Sanitaria,Cuajimalpa de Morelos
+288,2015.0,4.0,Pobreza moderada,Hombre,0-11,2623.0,171493959099000.0,353106040901000.0,Adec. Sanitaria,Cuajimalpa de Morelos
+289,2015.0,4.0,Pobreza moderada,Hombre,60 y mas,917.0,603351313758000.0,123064868624000.0,Adec. Sanitaria,Cuajimalpa de Morelos
+290,2015.0,4.0,Pobreza moderada,Mujer,30-44,3062.0,215769598066000.0,396630401934000.0,Adec. Sanitaria,Cuajimalpa de Morelos
+291,2015.0,4.0,Pobreza moderada,Mujer,45-59,2548.0,179196478725000.0,330403521275000.0,Adec. Sanitaria,Cuajimalpa de Morelos
+292,2015.0,4.0,Pobreza moderada,Mujer,60 y mas,1376.0,896900079337000.0,185509992066000.0,Adec. Sanitaria,Cuajimalpa de Morelos
+293,2015.0,4.0,Satisfaccion mínima,Hombre,12-29,20000.0,145580831946000.0,254419168054000.0,Adec. Sanitaria,Cuajimalpa de Morelos
+294,2015.0,4.0,Satisfaccion mínima,Hombre,30-44,15628.0,110210411449000.0,202349588551000.0,Adec. Sanitaria,Cuajimalpa de Morelos
+295,2015.0,5.0,Pobreza muy alta,Hombre,0-11,6971.0,420412938010000.0,973787061990000.0,Adec. Sanitaria,Gustavo A. Madero
+296,2015.0,5.0,Pobreza muy alta,Hombre,45-59,4078.0,254973747129000.0,560626252871000.0,Adec. Sanitaria,Gustavo A. Madero
+297,2015.0,5.0,Pobreza muy alta,Mujer,12-29,10073.0,682586734025000.0,1332013265980.0,Adec. Sanitaria,Gustavo A. Madero
+298,2015.0,5.0,Pobreza muy alta,Mujer,60 y mas,3384.0,232854778771000.0,443945221229000.0,Adec. Sanitaria,Gustavo A. Madero
+299,2015.0,5.0,Pobreza alta,Hombre,0-11,9275.0,684982819671000.0,117001718033000.0,Adec. Sanitaria,Gustavo A. Madero
+300,2015.0,5.0,Pobreza alta,Hombre,12-29,12711.0,995002490758000.0,154719750924000.0,Adec. Sanitaria,Gustavo A. Madero
+301,2015.0,5.0,Pobreza alta,Hombre,30-44,8536.0,62460856689400.0,108259143311000.0,Adec. Sanitaria,Gustavo A. Madero
+302,2015.0,5.0,Pobreza moderada,Hombre,12-29,22458.0,182331309139000.0,266828690861000.0,Adec. Sanitaria,Gustavo A. Madero
+303,2015.0,5.0,Pobreza moderada,Hombre,45-59,11988.0,947662527930000.0,144993747207000.0,Adec. Sanitaria,Gustavo A. Madero
+304,2015.0,5.0,Pobreza moderada,Mujer,0-11,14249.0,115619204593000.0,169360795407000.0,Adec. Sanitaria,Gustavo A. Madero
+305,2015.0,5.0,Pobreza moderada,Mujer,45-59,13899.0,108362840007000.0,169617159993000.0,Adec. Sanitaria,Gustavo A. Madero
+306,2015.0,5.0,Pobreza moderada,Mujer,60 y mas,11416.0,932655536698000.0,135054446330000.0,Adec. Sanitaria,Gustavo A. Madero
+307,2015.0,5.0,Satisfaccion mínima,Mujer,0-11,57481.0,498438468633000.0,651181531367000.0,Adec. Sanitaria,Gustavo A. Madero
+308,2015.0,6.0,Pobreza muy alta,Hombre,0-11,1562.0,854327139005000.0,226967286100000.0,Adec. Sanitaria,Iztacalco
+309,2015.0,6.0,Pobreza muy alta,Hombre,12-29,2797.0,189760881951000.0,369639118049000.0,Adec. Sanitaria,Iztacalco
+310,2015.0,6.0,Pobreza muy alta,Hombre,45-59,1039.0,623622394935000.0,145437760507000.0,Adec. Sanitaria,Iztacalco
+311,2015.0,6.0,Pobreza muy alta,Hombre,60 y mas,618.0,282743457002000.0,953256542998000.0,Adec. Sanitaria,Iztacalco
+312,2015.0,6.0,Pobreza muy alta,Mujer,60 y mas,902.0,455178863844000.0,134882113616000.0,Adec. Sanitaria,Iztacalco
+313,2015.0,6.0,Pobreza alta,Hombre,45-59,1538.0,744101071662000.0,23318989283400.0,Adec. Sanitaria,Iztacalco
+314,2015.0,6.0,Pobreza alta,Mujer,60 y mas,996.0,600715197330000.0,139128480267000.0,Adec. Sanitaria,Iztacalco
+315,2015.0,6.0,Pobreza moderada,Hombre,30-44,3447.0,240310592927000.0,449089407073000.0,Adec. Sanitaria,Iztacalco
+316,2015.0,6.0,Pobreza moderada,Mujer,30-44,4059.0,296479458460000.0,515320541540000.0,Adec. Sanitaria,Iztacalco
+317,2015.0,6.0,Pobreza moderada,Mujer,45-59,3802.0,262669138465000.0,497730861535000.0,Adec. Sanitaria,Iztacalco
+318,2015.0,6.0,Pobreza moderada,Mujer,60 y mas,3161.0,220852895790000.0,411347104210000.0,Adec. Sanitaria,Iztacalco
+319,2015.0,6.0,Satisfaccion mínima,Hombre,45-59,29422.0,256529644212000.0,331910355788000.0,Adec. Sanitaria,Iztacalco
+320,2015.0,6.0,Satisfaccion mínima,Hombre,No especificado,173.0,-658950586847000.0,411895058685000.0,Adec. Sanitaria,Iztacalco
+321,2015.0,6.0,Satisfaccion mínima,Mujer,0-11,22160.0,177906074741000.0,265293925259000.0,Adec. Sanitaria,Iztacalco
+322,2015.0,6.0,Satisfaccion mínima,Mujer,60 y mas,28907.0,246092515828000.0,332047484172000.0,Adec. Sanitaria,Iztacalco
+323,2015.0,6.0,Satisfaccion mínima,Mujer,No especificado,246.0,-114162625942000.0,606162625942000.0,Adec. Sanitaria,Iztacalco
+324,2015.0,7.0,Pobreza muy alta,Hombre,30-44,14110.0,107076372850000.0,175123627150000.0,Adec. Sanitaria,Iztapalapa
+325,2015.0,7.0,Pobreza muy alta,Mujer,30-44,15603.0,11412579628300.0,19793420371700.0,Adec. Sanitaria,Iztapalapa
+326,2015.0,7.0,Pobreza muy alta,Mujer,No especificado,72.0,-227420954430000.0,166742095443000.0,Adec. Sanitaria,Iztapalapa
+327,2015.0,7.0,Pobreza alta,Hombre,30-44,20590.0,174856231786000.0,236943768214000.0,Adec. Sanitaria,Iztapalapa
+328,2015.0,7.0,Pobreza alta,Hombre,45-59,11732.0,962533082510000.0,138386691749000.0,Adec. Sanitaria,Iztapalapa
+329,2015.0,7.0,Pobreza alta,Hombre,No especificado,38.0,-11005605083100.0,87005605083100.0,Adec. Sanitaria,Iztapalapa
+330,2015.0,7.0,Pobreza alta,Mujer,30-44,22226.0,188535667651000.0,255984332349000.0,Adec. Sanitaria,Iztapalapa
+331,2015.0,7.0,Pobreza alta,Mujer,45-59,12987.0,106917074276000.0,152822925724000.0,Adec. Sanitaria,Iztapalapa
+332,2015.0,7.0,Pobreza alta,Mujer,No especificado,61.0,-353887067763000.0,157388706776000.0,Adec. Sanitaria,Iztapalapa
+333,2015.0,7.0,Pobreza moderada,Hombre,12-29,50074.0,43676575534500.0,56471424465500.0,Adec. Sanitaria,Iztapalapa
+334,2015.0,7.0,Pobreza moderada,Hombre,30-44,32736.0,28630003486900.0,36841996513100.0,Adec. Sanitaria,Iztapalapa
+335,2015.0,7.0,Pobreza moderada,Hombre,45-59,23209.0,199623991816000.0,264556008184000.0,Adec. Sanitaria,Iztapalapa
+336,2015.0,7.0,Pobreza moderada,Hombre,60 y mas,14612.0,131935150614000.0,160304849386000.0,Adec. Sanitaria,Iztapalapa
+337,2015.0,7.0,Pobreza moderada,Mujer,30-44,36849.0,324376033113000.0,412603966887000.0,Adec. Sanitaria,Iztapalapa
+338,2015.0,7.0,Pobreza moderada,Mujer,No especificado,174.0,649806599906000.0,341501934001000.0,Adec. Sanitaria,Iztapalapa
+339,2015.0,7.0,Satisfaccion mínima,Hombre,0-11,98307.0,894894774354000.0,10712452256500.0,Adec. Sanitaria,Iztapalapa
+340,2015.0,7.0,Satisfaccion mínima,Hombre,30-44,128318.0,118703745935000.0,137932254065000.0,Adec. Sanitaria,Iztapalapa
+341,2015.0,7.0,Satisfaccion mínima,Hombre,60 y mas,70247.0,637083557932000.0,767856442068000.0,Adec. Sanitaria,Iztapalapa
+342,2015.0,7.0,Satisfaccion mínima,Hombre,No especificado,395.0,802094147722000.0,709790585228000.0,Adec. Sanitaria,Iztapalapa
+343,2015.0,7.0,Satisfaccion mínima,Mujer,No especificado,485.0,159402630696000.0,810597369304000.0,Adec. Sanitaria,Iztapalapa
+344,2015.0,8.0,Pobreza muy alta,Hombre,0-11,1653.0,10373030671700.0,22686969328300.0,Adec. Sanitaria,La Magdalena Contreras
+345,2015.0,8.0,Pobreza muy alta,Mujer,30-44,1508.0,819423559756000.0,219657644024000.0,Adec. Sanitaria,La Magdalena Contreras
+346,2015.0,8.0,Pobreza alta,Hombre,12-29,2664.0,186732644556000.0,346067355444000.0,Adec. Sanitaria,La Magdalena Contreras
+347,2015.0,8.0,Pobreza alta,Hombre,45-59,1299.0,839339313000000.0,175866068700000.0,Adec. Sanitaria,La Magdalena Contreras
+348,2015.0,8.0,Pobreza alta,Mujer,45-59,1203.0,723758892061000.0,168224110794000.0,Adec. Sanitaria,La Magdalena Contreras
+349,2015.0,8.0,Pobreza moderada,Hombre,0-11,4049.0,280255526122000.0,529544473878000.0,Adec. Sanitaria,La Magdalena Contreras
+350,2015.0,8.0,Pobreza moderada,Hombre,60 y mas,1882.0,123840504709000.0,252559495291000.0,Adec. Sanitaria,La Magdalena Contreras
+351,2015.0,8.0,Pobreza moderada,Hombre,No especificado,37.0,-197768555031000.0,937768555031000.0,Adec. Sanitaria,La Magdalena Contreras
+352,2015.0,8.0,Satisfaccion mínima,Hombre,12-29,23209.0,187579064618000.0,276600935382000.0,Adec. Sanitaria,La Magdalena Contreras
+353,2015.0,8.0,Satisfaccion mínima,Mujer,0-11,13507.0,107798395915000.0,162341604085000.0,Adec. Sanitaria,La Magdalena Contreras
+354,2015.0,8.0,Satisfaccion mínima,Mujer,No especificado,63.0,-226642236525000.0,12826642236500.0,Adec. Sanitaria,La Magdalena Contreras
+355,2015.0,9.0,Pobreza muy alta,Hombre,0-11,3635.0,213852316022000.0,513147683978000.0,Adec. Sanitaria,Milpa Alta
+356,2015.0,9.0,Pobreza muy alta,Mujer,30-44,4083.0,212583075975000.0,604016924025000.0,Adec. Sanitaria,Milpa Alta
+357,2015.0,9.0,Pobreza muy alta,Mujer,60 y mas,970.0,590388285602000.0,13496117144000.0,Adec. Sanitaria,Milpa Alta
+358,2015.0,9.0,Pobreza alta,Hombre,12-29,4444.0,286537763190000.0,602262236810000.0,Adec. Sanitaria,Milpa Alta
+359,2015.0,9.0,Pobreza alta,Hombre,60 y mas,866.0,470399598842000.0,126160040116000.0,Adec. Sanitaria,Milpa Alta
+360,2015.0,9.0,Pobreza alta,Mujer,12-29,4287.0,288125782136000.0,569274217864000.0,Adec. Sanitaria,Milpa Alta
+361,2015.0,9.0,Pobreza alta,Mujer,60 y mas,1227.0,748580420638000.0,170541957936000.0,Adec. Sanitaria,Milpa Alta
+362,2015.0,9.0,Pobreza moderada,Hombre,12-29,5696.0,316944818568000.0,822255181432000.0,Adec. Sanitaria,Milpa Alta
+363,2015.0,9.0,Pobreza moderada,Hombre,45-59,2536.0,142796551589000.0,364403448411000.0,Adec. Sanitaria,Milpa Alta
+364,2015.0,9.0,Pobreza moderada,Hombre,60 y mas,1439.0,95398084444300.0,192401915556000.0,Adec. Sanitaria,Milpa Alta
+365,2015.0,9.0,Pobreza moderada,Hombre,No especificado,9.0,-940172256688000.0,274017225669000.0,Adec. Sanitaria,Milpa Alta
+366,2015.0,9.0,Pobreza moderada,Mujer,60 y mas,1719.0,104522877664000.0,239277122336000.0,Adec. Sanitaria,Milpa Alta
+367,2015.0,9.0,Satisfaccion mínima,Hombre,30-44,4748.0,319473893378000.0,630126106622000.0,Adec. Sanitaria,Milpa Alta
+368,2015.0,9.0,Satisfaccion mínima,Hombre,60 y mas,2300.0,153173077792000.0,306826922208000.0,Adec. Sanitaria,Milpa Alta
+369,2015.0,9.0,Satisfaccion mínima,Hombre,No especificado,9.0,-940172256688000.0,274017225669000.0,Adec. Sanitaria,Milpa Alta
+370,2015.0,9.0,Satisfaccion mínima,Mujer,60 y mas,2568.0,177085177436000.0,336514822564000.0,Adec. Sanitaria,Milpa Alta
+371,2015.0,10.0,Pobreza muy alta,Hombre,30-44,4354.0,303431967135000.0,567368032865000.0,Adec. Sanitaria,Álvaro Obregón
+372,2015.0,10.0,Pobreza muy alta,Hombre,45-59,2640.0,168990152427000.0,359009847573000.0,Adec. Sanitaria,Álvaro Obregón
+373,2015.0,10.0,Pobreza alta,Mujer,0-11,4404.0,281720993593000.0,599079006407000.0,Adec. Sanitaria,Álvaro Obregón
+374,2015.0,10.0,Pobreza alta,Mujer,12-29,6807.0,498281084056000.0,863118915944000.0,Adec. Sanitaria,Álvaro Obregón
+375,2015.0,10.0,Pobreza alta,Mujer,45-59,3121.0,182511712811000.0,441688287189000.0,Adec. Sanitaria,Álvaro Obregón
+376,2015.0,10.0,Pobreza moderada,Hombre,12-29,18193.0,141776567103000.0,222083432897000.0,Adec. Sanitaria,Álvaro Obregón
+377,2015.0,10.0,Pobreza moderada,Hombre,30-44,12636.0,992649838601000.0,153455016140000.0,Adec. Sanitaria,Álvaro Obregón
+378,2015.0,10.0,Pobreza moderada,Hombre,60 y mas,5702.0,432555940266000.0,707844059734000.0,Adec. Sanitaria,Álvaro Obregón
+379,2015.0,10.0,Pobreza moderada,Mujer,60 y mas,7286.0,591647058695000.0,865552941305000.0,Adec. Sanitaria,Álvaro Obregón
+380,2015.0,10.0,Satisfaccion mínima,Hombre,30-44,64027.0,546993105925000.0,733546894075000.0,Adec. Sanitaria,Álvaro Obregón
+381,2015.0,10.0,Satisfaccion mínima,Hombre,No especificado,89.0,-137320917768000.0,178137320918000.0,Adec. Sanitaria,Álvaro Obregón
+382,2015.0,11.0,Pobreza muy alta,Hombre,12-29,4447.0,311084683787000.0,578315316213000.0,Adec. Sanitaria,Tláhuac
+383,2015.0,11.0,Pobreza muy alta,Hombre,30-44,3473.0,223220698524000.0,471379301476000.0,Adec. Sanitaria,Tláhuac
+384,2015.0,11.0,Pobreza muy alta,Mujer,0-11,3291.0,212428610597000.0,445771389403000.0,Adec. Sanitaria,Tláhuac
+385,2015.0,11.0,Pobreza alta,Hombre,0-11,4724.0,357990658737000.0,586809341263000.0,Adec. Sanitaria,Tláhuac
+386,2015.0,11.0,Pobreza alta,Hombre,12-29,7411.0,560894769821000.0,921305230179000.0,Adec. Sanitaria,Tláhuac
+387,2015.0,11.0,Pobreza alta,Mujer,60 y mas,2267.0,143011864137000.0,310388135863000.0,Adec. Sanitaria,Tláhuac
+388,2015.0,11.0,Pobreza moderada,Hombre,12-29,11488.0,920145742454000.0,137745425755000.0,Adec. Sanitaria,Tláhuac
+389,2015.0,11.0,Pobreza moderada,Hombre,30-44,7889.0,628269790002000.0,949530209998000.0,Adec. Sanitaria,Tláhuac
+390,2015.0,11.0,Pobreza moderada,Hombre,No especificado,15.0,-184237320265000.0,484237320265000.0,Adec. Sanitaria,Tláhuac
+391,2015.0,11.0,Pobreza moderada,Mujer,30-44,9038.0,751781712402000.0,105581828760000.0,Adec. Sanitaria,Tláhuac
+392,2015.0,11.0,Pobreza moderada,Mujer,60 y mas,4356.0,295646336328000.0,575553663672000.0,Adec. Sanitaria,Tláhuac
+393,2015.0,11.0,Satisfaccion mínima,Hombre,0-11,16583.0,144259770573000.0,187400229427000.0,Adec. Sanitaria,Tláhuac
+394,2015.0,11.0,Satisfaccion mínima,Hombre,12-29,32119.0,278114843294000.0,364265156706000.0,Adec. Sanitaria,Tláhuac
+395,2015.0,11.0,Satisfaccion mínima,Hombre,45-59,18736.0,160778208969000.0,213941791031000.0,Adec. Sanitaria,Tláhuac
+396,2015.0,11.0,Satisfaccion mínima,Hombre,60 y mas,10226.0,879461069868000.0,116573893013000.0,Adec. Sanitaria,Tláhuac
+397,2015.0,11.0,Satisfaccion mínima,Hombre,No especificado,54.0,-283031919636000.0,1363031919640.0,Adec. Sanitaria,Tláhuac
+398,2015.0,11.0,Satisfaccion mínima,Mujer,60 y mas,11394.0,100572658825000.0,127307341175000.0,Adec. Sanitaria,Tláhuac
+399,2015.0,12.0,Pobreza muy alta,Hombre,12-29,19330.0,152384216611000.0,234215783389000.0,Adec. Sanitaria,Tlalpan
+400,2015.0,12.0,Pobreza muy alta,Hombre,60 y mas,3867.0,287146538161000.0,486253461839000.0,Adec. Sanitaria,Tlalpan
+401,2015.0,12.0,Pobreza muy alta,Mujer,45-59,9861.0,812148044582000.0,116005195542000.0,Adec. Sanitaria,Tlalpan
+402,2015.0,12.0,Pobreza alta,Hombre,30-44,6692.0,51616654754100.0,82223345245900.0,Adec. Sanitaria,Tlalpan
+403,2015.0,12.0,Pobreza alta,Mujer,No especificado,34.0,-243331949549000.0,923331949549000.0,Adec. Sanitaria,Tlalpan
+404,2015.0,12.0,Pobreza moderada,Hombre,60 y mas,3435.0,267401944782000.0,419598055218000.0,Adec. Sanitaria,Tlalpan
+405,2015.0,12.0,Pobreza moderada,Hombre,No especificado,15.0,-132520681126000.0,432520681126000.0,Adec. Sanitaria,Tlalpan
+406,2015.0,12.0,Satisfaccion mínima,Hombre,12-29,54364.0,457593521615000.0,629686478385000.0,Adec. Sanitaria,Tlalpan
+407,2015.0,12.0,Satisfaccion mínima,Hombre,45-59,36777.0,315808095418000.0,419731904582000.0,Adec. Sanitaria,Tlalpan
+408,2015.0,12.0,Satisfaccion mínima,Hombre,No especificado,164.0,884338433589000.0,319156615664000.0,Adec. Sanitaria,Tlalpan
+409,2015.0,12.0,Satisfaccion mínima,Mujer,45-59,45211.0,387134675637000.0,517085324363000.0,Adec. Sanitaria,Tlalpan
+410,2015.0,12.0,Satisfaccion mínima,Mujer,60 y mas,37958.0,320363073349000.0,438796926651000.0,Adec. Sanitaria,Tlalpan
+411,2015.0,13.0,Pobreza muy alta,Hombre,60 y mas,2146.0,148190774833000.0,281009225167000.0,Adec. Sanitaria,Xochimilco
+412,2015.0,13.0,Pobreza alta,Hombre,45-59,4087.0,287265297392000.0,530134702608000.0,Adec. Sanitaria,Xochimilco
+413,2015.0,13.0,Pobreza alta,Mujer,45-59,4550.0,316597340731000.0,593402659269000.0,Adec. Sanitaria,Xochimilco
+414,2015.0,13.0,Pobreza alta,Mujer,60 y mas,3006.0,166457326623000.0,434742673377000.0,Adec. Sanitaria,Xochimilco
+415,2015.0,13.0,Pobreza moderada,Hombre,12-29,13828.0,900978839391000.0,186462116061000.0,Adec. Sanitaria,Xochimilco
+416,2015.0,13.0,Pobreza moderada,Hombre,30-44,9103.0,550806903079000.0,12697930969200.0,Adec. Sanitaria,Xochimilco
+417,2015.0,13.0,Satisfaccion mínima,Hombre,45-59,17274.0,127360449352000.0,218119550648000.0,Adec. Sanitaria,Xochimilco
+418,2015.0,13.0,Satisfaccion mínima,Hombre,No especificado,190.0,-26402362588300.0,382640236259000.0,Adec. Sanitaria,Xochimilco
+419,2015.0,14.0,Pobreza muy alta,Hombre,30-44,1197.0,153160468082000.0,224083953192000.0,Adec. Sanitaria,Benito Juárez
+420,2015.0,14.0,Pobreza muy alta,Hombre,45-59,566.0,22984244489200.0,90215755510800.0,Adec. Sanitaria,Benito Juárez
+421,2015.0,14.0,Pobreza muy alta,Mujer,60 y mas,941.0,296829821696000.0,158517017830000.0,Adec. Sanitaria,Benito Juárez
+422,2015.0,14.0,Pobreza alta,Hombre,12-29,890.0,402290057753000.0,137770994225000.0,Adec. Sanitaria,Benito Juárez
+423,2015.0,14.0,Pobreza alta,Hombre,45-59,540.0,180447685380000.0,899552314620000.0,Adec. Sanitaria,Benito Juárez
+424,2015.0,14.0,Pobreza alta,Hombre,60 y mas,499.0,151271185928000.0,846728814072000.0,Adec. Sanitaria,Benito Juárez
+425,2015.0,14.0,Pobreza alta,Hombre,No especificado,9.0,-126060283168000.0,306060283168000.0,Adec. Sanitaria,Benito Juárez
+426,2015.0,14.0,Pobreza alta,Mujer,12-29,789.0,21402206763100.0,136397793237000.0,Adec. Sanitaria,Benito Juárez
+427,2015.0,14.0,Pobreza alta,Mujer,45-59,538.0,190048144040000.0,885951855960000.0,Adec. Sanitaria,Benito Juárez
+428,2015.0,14.0,Pobreza moderada,Hombre,45-59,1392.0,699311971276000.0,208468802872000.0,Adec. Sanitaria,Benito Juárez
+429,2015.0,14.0,Pobreza moderada,Hombre,60 y mas,1342.0,541479794056000.0,214252020594000.0,Adec. Sanitaria,Benito Juárez
+430,2015.0,14.0,Pobreza moderada,Mujer,60 y mas,2000.0,124837394429000.0,275162605571000.0,Adec. Sanitaria,Benito Juárez
+431,2015.0,14.0,Satisfaccion mínima,Hombre,0-11,20480.0,163464111729000.0,246135888271000.0,Adec. Sanitaria,Benito Juárez
+432,2015.0,14.0,Satisfaccion mínima,Hombre,45-59,36430.0,293431859247000.0,435168140753000.0,Adec. Sanitaria,Benito Juárez
+433,2015.0,14.0,Satisfaccion mínima,Hombre,60 y mas,28996.0,245507321260000.0,334412678740000.0,Adec. Sanitaria,Benito Juárez
+434,2015.0,14.0,Satisfaccion mínima,Mujer,12-29,43070.0,358466504663000.0,502933495337000.0,Adec. Sanitaria,Benito Juárez
+435,2015.0,15.0,Pobreza muy alta,Mujer,0-11,1449.0,781278653302000.0,211672134670000.0,Adec. Sanitaria,Cuauhtémoc
+436,2015.0,15.0,Pobreza muy alta,Mujer,60 y mas,1063.0,624983427949000.0,150101657205000.0,Adec. Sanitaria,Cuauhtémoc
+437,2015.0,15.0,Pobreza alta,Hombre,30-44,2472.0,142150174577000.0,352249825423000.0,Adec. Sanitaria,Cuauhtémoc
+438,2015.0,15.0,Pobreza alta,Mujer,0-11,1185.0,523134236024000.0,184686576398000.0,Adec. Sanitaria,Cuauhtémoc
+439,2015.0,15.0,Pobreza alta,Mujer,30-44,1612.0,10521776235300.0,21718223764700.0,Adec. Sanitaria,Cuauhtémoc
+440,2015.0,15.0,Pobreza alta,Mujer,45-59,1441.0,770305538339000.0,21116944616600.0,Adec. Sanitaria,Cuauhtémoc
+441,2015.0,15.0,Pobreza moderada,Hombre,30-44,4418.0,308591739831000.0,575008260169000.0,Adec. Sanitaria,Cuauhtémoc
+442,2015.0,15.0,Pobreza moderada,Mujer,0-11,3493.0,202373683477000.0,496226316523000.0,Adec. Sanitaria,Cuauhtémoc
+443,2015.0,15.0,Satisfaccion mínima,Hombre,0-11,28513.0,247943055239000.0,322316944761000.0,Adec. Sanitaria,Cuauhtémoc
+444,2015.0,15.0,Satisfaccion mínima,Mujer,60 y mas,42979.0,365067236510000.0,494512763490000.0,Adec. Sanitaria,Cuauhtémoc
+445,2015.0,16.0,Pobreza muy alta,Hombre,0-11,513.0,165930057801000.0,860069942199000.0,Adec. Sanitaria,Miguel Hidalgo
+446,2015.0,16.0,Pobreza muy alta,Hombre,30-44,1063.0,638952567082000.0,148704743292000.0,Adec. Sanitaria,Miguel Hidalgo
+447,2015.0,16.0,Pobreza muy alta,Mujer,30-44,1065.0,593816821712000.0,153618317829000.0,Adec. Sanitaria,Miguel Hidalgo
+448,2015.0,16.0,Pobreza alta,Mujer,30-44,1338.0,694568747206000.0,198143125279000.0,Adec. Sanitaria,Miguel Hidalgo
+449,2015.0,16.0,Pobreza alta,Mujer,45-59,1196.0,652786499447000.0,173921350055000.0,Adec. Sanitaria,Miguel Hidalgo
+450,2015.0,16.0,Satisfaccion mínima,Hombre,0-11,20573.0,148550134627000.0,262909865373000.0,Adec. Sanitaria,Miguel Hidalgo
+451,2015.0,16.0,Satisfaccion mínima,Hombre,45-59,26818.0,204398071159000.0,331961928841000.0,Adec. Sanitaria,Miguel Hidalgo
+452,2015.0,16.0,Satisfaccion mínima,Hombre,60 y mas,21987.0,174166714880000.0,265573285120000.0,Adec. Sanitaria,Miguel Hidalgo
+453,2015.0,16.0,Satisfaccion mínima,Mujer,12-29,37869.0,264396695627000.0,492983304373000.0,Adec. Sanitaria,Miguel Hidalgo
+454,2015.0,16.0,Satisfaccion mínima,Mujer,30-44,43354.0,298253309502000.0,568826690498000.0,Adec. Sanitaria,Miguel Hidalgo
+455,2015.0,16.0,Satisfaccion mínima,Mujer,No especificado,256.0,-585288660522000.0,570528866052000.0,Adec. Sanitaria,Miguel Hidalgo
+456,2015.0,17.0,Pobreza muy alta,Mujer,45-59,909.0,499342545979000.0,131865745402000.0,Adec. Sanitaria,Venustiano Carranza
+457,2015.0,17.0,Pobreza alta,Hombre,45-59,1579.0,734031268131000.0,242396873187000.0,Adec. Sanitaria,Venustiano Carranza
+458,2015.0,17.0,Pobreza alta,Hombre,60 y mas,893.0,366689233753000.0,141931076625000.0,Adec. Sanitaria,Venustiano Carranza
+459,2015.0,17.0,Pobreza moderada,Hombre,60 y mas,3033.0,216345028942000.0,390254971058000.0,Adec. Sanitaria,Venustiano Carranza
+460,2015.0,17.0,Pobreza moderada,Mujer,30-44,4947.0,273737922957000.0,715662077043000.0,Adec. Sanitaria,Venustiano Carranza
+461,2015.0,17.0,Satisfaccion mínima,Hombre,12-29,44637.0,382507305009000.0,510232694991000.0,Adec. Sanitaria,Venustiano Carranza
+462,2015.0,17.0,Satisfaccion mínima,Mujer,0-11,24507.0,204973771580000.0,285166228420000.0,Adec. Sanitaria,Venustiano Carranza
+463,2015.0,17.0,Satisfaccion mínima,Mujer,30-44,42780.0,369198885636000.0,486401114364000.0,Adec. Sanitaria,Venustiano Carranza
+464,2015.0,17.0,Satisfaccion mínima,Mujer,45-59,38498.0,33657391903200.0,43338608096800.0,Adec. Sanitaria,Venustiano Carranza
+465,2015.0,17.0,Satisfaccion mínima,Mujer,60 y mas,36206.0,310139610015000.0,413980389985000.0,Adec. Sanitaria,Venustiano Carranza
+466,2015.0,2.0,Pobreza muy alta,Hombre,12-29,1764.0,120165784442000.0,232634215558000.0,Adec. Sanitaria,Azcapotzalco
+467,2015.0,2.0,Pobreza muy alta,Hombre,30-44,1930.0,115526418698000.0,270473581302000.0,Adec. Sanitaria,Azcapotzalco
+468,2015.0,2.0,Pobreza muy alta,Hombre,60 y mas,869.0,420519894636000.0,131748010536000.0,Adec. Sanitaria,Azcapotzalco
+469,2015.0,2.0,Pobreza muy alta,Mujer,30-44,2166.0,154578932639000.0,278621067361000.0,Adec. Sanitaria,Azcapotzalco
+470,2015.0,2.0,Pobreza muy alta,Mujer,45-59,1249.0,771389442048000.0,172661055795000.0,Adec. Sanitaria,Azcapotzalco
+471,2015.0,2.0,Pobreza alta,Hombre,0-11,1922.0,107419670497000.0,276980329503000.0,Adec. Sanitaria,Azcapotzalco
+472,2015.0,2.0,Pobreza alta,Hombre,12-29,2163.0,147306492834000.0,285293507166000.0,Adec. Sanitaria,Azcapotzalco
+473,2015.0,2.0,Pobreza alta,Hombre,30-44,1586.0,10489728969300.0,21230271030700.0,Adec. Sanitaria,Azcapotzalco
+474,2015.0,2.0,Pobreza alta,Hombre,45-59,1692.0,819599432291000.0,256440056771000.0,Adec. Sanitaria,Azcapotzalco
+475,2015.0,2.0,Pobreza alta,Mujer,0-11,1444.0,914953164467000.0,197304683553000.0,Adec. Sanitaria,Azcapotzalco
+476,2015.0,2.0,Pobreza alta,Mujer,12-29,2645.0,175628313877000.0,353371686123000.0,Adec. Sanitaria,Azcapotzalco
+477,2015.0,2.0,Pobreza alta,Mujer,60 y mas,1500.0,709621735478000.0,229037826452000.0,Adec. Sanitaria,Azcapotzalco
+478,2015.0,2.0,Pobreza moderada,Hombre,0-11,3058.0,191931677696000.0,419668322304000.0,Adec. Sanitaria,Azcapotzalco
+479,2015.0,2.0,Pobreza moderada,Hombre,12-29,4289.0,291381238248000.0,566418761752000.0,Adec. Sanitaria,Azcapotzalco
+480,2015.0,2.0,Pobreza moderada,Hombre,30-44,3377.0,24705676026100.0,42834323973900.0,Adec. Sanitaria,Azcapotzalco
+481,2015.0,2.0,Pobreza moderada,Mujer,12-29,4796.0,3360290145580.0,6231709854420.0,Adec. Sanitaria,Azcapotzalco
+482,2015.0,2.0,Pobreza moderada,Mujer,60 y mas,3080.0,195634907516000.0,420365092484000.0,Adec. Sanitaria,Azcapotzalco
+483,2015.0,2.0,Satisfaccion mínima,Mujer,30-44,39443.0,342374435392000.0,446485564608000.0,Adec. Sanitaria,Azcapotzalco
+484,2015.0,3.0,Pobreza muy alta,Hombre,12-29,4954.0,352018449097000.0,638781550903000.0,Adec. Sanitaria,Coyoacán
+485,2015.0,3.0,Pobreza muy alta,Hombre,30-44,3221.0,244436679291000.0,399763320709000.0,Adec. Sanitaria,Coyoacán
+486,2015.0,3.0,Pobreza muy alta,Hombre,60 y mas,1753.0,113584173238000.0,237015826762000.0,Adec. Sanitaria,Coyoacán
+487,2015.0,3.0,Pobreza muy alta,Mujer,45-59,2585.0,189237519399000.0,327762480601000.0,Adec. Sanitaria,Coyoacán
+488,2015.0,3.0,Pobreza alta,Hombre,12-29,3971.0,276414864282000.0,517785135718000.0,Adec. Sanitaria,Coyoacán
+489,2015.0,3.0,Pobreza alta,Hombre,60 y mas,1455.0,882354476923000.0,20276455230800.0,Adec. Sanitaria,Coyoacán
+490,2015.0,3.0,Pobreza alta,Mujer,60 y mas,1952.0,106386245800000.0,284013754200000.0,Adec. Sanitaria,Coyoacán
+491,2015.0,3.0,Pobreza moderada,Hombre,30-44,6393.0,443334034042000.0,835265965958000.0,Adec. Sanitaria,Coyoacán
+492,2015.0,3.0,Satisfaccion mínima,Hombre,0-11,28363.0,242616114383000.0,324643885617000.0,Adec. Sanitaria,Coyoacán
+493,2015.0,3.0,Satisfaccion mínima,Hombre,12-29,59656.0,513520776530000.0,679599223470000.0,Adec. Sanitaria,Coyoacán
+494,2015.0,3.0,Satisfaccion mínima,Mujer,12-29,61325.0,522143133296000.0,704356866704000.0,Adec. Sanitaria,Coyoacán
+495,2015.0,3.0,Satisfaccion mínima,Mujer,30-44,59708.0,514256045837000.0,679903954163000.0,Adec. Sanitaria,Coyoacán
+496,2015.0,4.0,Pobreza muy alta,Hombre,0-11,1907.0,108460863491000.0,272939136509000.0,Adec. Sanitaria,Cuajimalpa de Morelos
+497,2015.0,4.0,Pobreza muy alta,Hombre,60 y mas,479.0,273476241378000.0,684523758622000.0,Adec. Sanitaria,Cuajimalpa de Morelos
+498,2015.0,4.0,Pobreza muy alta,Hombre,No especificado,3.0,-209558564743000.0,809558564743000.0,Adec. Sanitaria,Cuajimalpa de Morelos
+499,2015.0,4.0,Pobreza muy alta,Mujer,0-11,1789.0,106103652913000.0,251696347087000.0,Adec. Sanitaria,Cuajimalpa de Morelos
+500,2015.0,4.0,Pobreza muy alta,Mujer,30-44,1873.0,125925012067000.0,248674987933000.0,Adec. Sanitaria,Cuajimalpa de Morelos
+501,2015.0,4.0,Pobreza alta,Hombre,60 y mas,463.0,163380035413000.0,762619964587000.0,Adec. Sanitaria,Cuajimalpa de Morelos
+502,2015.0,4.0,Pobreza alta,Mujer,12-29,2755.0,164174350421000.0,386825649579000.0,Adec. Sanitaria,Cuajimalpa de Morelos
+503,2015.0,4.0,Pobreza moderada,Hombre,45-59,2100.0,149690588135000.0,270309411865000.0,Adec. Sanitaria,Cuajimalpa de Morelos
+504,2015.0,4.0,Pobreza moderada,Mujer,0-11,3225.0,183257374246000.0,461742625754000.0,Adec. Sanitaria,Cuajimalpa de Morelos
+505,2015.0,4.0,Pobreza moderada,Mujer,12-29,4691.0,319361530659000.0,618838469341000.0,Adec. Sanitaria,Cuajimalpa de Morelos
+506,2015.0,4.0,Satisfaccion mínima,Mujer,30-44,16903.0,125641966898000.0,212418033102000.0,Adec. Sanitaria,Cuajimalpa de Morelos
+507,2015.0,4.0,Satisfaccion mínima,Mujer,45-59,13007.0,10021053216700.0,15992946783300.0,Adec. Sanitaria,Cuajimalpa de Morelos
+508,2015.0,4.0,Satisfaccion mínima,Mujer,60 y mas,7492.0,540323583497000.0,958076416503000.0,Adec. Sanitaria,Cuajimalpa de Morelos
+509,2015.0,4.0,Satisfaccion mínima,Mujer,No especificado,8.0,-130974840062000.0,290974840062000.0,Adec. Sanitaria,Cuajimalpa de Morelos
+510,2015.0,5.0,Pobreza muy alta,Hombre,60 y mas,2949.0,184442375295000.0,405357624705000.0,Adec. Sanitaria,Gustavo A. Madero
+511,2015.0,5.0,Pobreza muy alta,Mujer,0-11,7253.0,490850053076000.0,959749946924000.0,Adec. Sanitaria,Gustavo A. Madero
+512,2015.0,5.0,Pobreza alta,Hombre,45-59,5591.0,447482033312000.0,670717966688000.0,Adec. Sanitaria,Gustavo A. Madero
+513,2015.0,5.0,Pobreza alta,Mujer,30-44,10060.0,753749602049000.0,125825039795000.0,Adec. Sanitaria,Gustavo A. Madero
+514,2015.0,5.0,Pobreza alta,Mujer,60 y mas,5239.0,395196336909000.0,652603663091000.0,Adec. Sanitaria,Gustavo A. Madero
+515,2015.0,5.0,Pobreza moderada,Hombre,30-44,16051.0,122246932002000.0,198773067998000.0,Adec. Sanitaria,Gustavo A. Madero
+516,2015.0,5.0,Pobreza moderada,Hombre,60 y mas,9309.0,722166086073000.0,113963391393000.0,Adec. Sanitaria,Gustavo A. Madero
+517,2015.0,5.0,Pobreza moderada,Mujer,12-29,22408.0,184599057350000.0,263560942650000.0,Adec. Sanitaria,Gustavo A. Madero
+518,2015.0,5.0,Pobreza moderada,Mujer,30-44,18610.0,143505662478000.0,228694337522000.0,Adec. Sanitaria,Gustavo A. Madero
+519,2015.0,5.0,Satisfaccion mínima,Hombre,0-11,60638.0,532073293132000.0,680686706868000.0,Adec. Sanitaria,Gustavo A. Madero
+520,2015.0,5.0,Satisfaccion mínima,Hombre,No especificado,191.0,-384358530187000.0,420435853019000.0,Adec. Sanitaria,Gustavo A. Madero
+521,2015.0,5.0,Satisfaccion mínima,Mujer,12-29,114644.0,102698497250000.0,126589502750000.0,Adec. Sanitaria,Gustavo A. Madero
+522,2015.0,5.0,Satisfaccion mínima,Mujer,30-44,97951.0,878077334744000.0,10809426652600.0,Adec. Sanitaria,Gustavo A. Madero
+523,2015.0,6.0,Pobreza muy alta,Mujer,0-11,1201.0,727202842979000.0,167479715702000.0,Adec. Sanitaria,Iztacalco
+524,2015.0,6.0,Pobreza muy alta,Mujer,45-59,1533.0,949304162874000.0,211669583713000.0,Adec. Sanitaria,Iztacalco
+525,2015.0,6.0,Pobreza alta,Hombre,12-29,2372.0,135404553047000.0,338995446953000.0,Adec. Sanitaria,Iztacalco
+526,2015.0,6.0,Pobreza alta,Mujer,12-29,2367.0,127987616796000.0,345412383204000.0,Adec. Sanitaria,Iztacalco
+527,2015.0,6.0,Pobreza alta,Mujer,30-44,1768.0,992453983261000.0,254354601674000.0,Adec. Sanitaria,Iztacalco
+528,2015.0,6.0,Pobreza moderada,Hombre,0-11,3274.0,199434310180000.0,455365689820000.0,Adec. Sanitaria,Iztacalco
+529,2015.0,6.0,Pobreza moderada,Hombre,12-29,4414.0,305627194795000.0,577172805205000.0,Adec. Sanitaria,Iztacalco
+530,2015.0,6.0,Pobreza moderada,Hombre,60 y mas,2289.0,156764074064000.0,301035925936000.0,Adec. Sanitaria,Iztacalco
+531,2015.0,6.0,Pobreza moderada,Mujer,0-11,3333.0,243688143760000.0,422911856240000.0,Adec. Sanitaria,Iztacalco
+532,2015.0,6.0,Pobreza moderada,Mujer,No especificado,14.0,-214510140771000.0,494510140771000.0,Adec. Sanitaria,Iztacalco
+533,2015.0,6.0,Satisfaccion mínima,Mujer,12-29,42764.0,362509053245000.0,492770946755000.0,Adec. Sanitaria,Iztacalco
+534,2015.0,6.0,Satisfaccion mínima,Mujer,30-44,38787.0,333041854823000.0,442698145177000.0,Adec. Sanitaria,Iztacalco
+535,2015.0,6.0,Satisfaccion mínima,Mujer,45-59,35900.0,309257850379000.0,408742149621000.0,Adec. Sanitaria,Iztacalco
+536,2015.0,7.0,Pobreza muy alta,Hombre,45-59,7878.0,60371044049500.0,97188955950500.0,Adec. Sanitaria,Iztapalapa
+537,2015.0,7.0,Pobreza muy alta,Hombre,No especificado,68.0,-266553321813000.0,162655332181000.0,Adec. Sanitaria,Iztapalapa
+538,2015.0,7.0,Pobreza muy alta,Mujer,0-11,14363.0,100606412742000.0,186653587258000.0,Adec. Sanitaria,Iztapalapa
+539,2015.0,7.0,Pobreza muy alta,Mujer,12-29,22458.0,167939700796000.0,281220299204000.0,Adec. Sanitaria,Iztapalapa
+540,2015.0,7.0,Pobreza alta,Hombre,0-11,21776.0,186379808643000.0,249140191357000.0,Adec. Sanitaria,Iztapalapa
+541,2015.0,7.0,Pobreza alta,Hombre,12-29,29911.0,252186872112000.0,346033127888000.0,Adec. Sanitaria,Iztapalapa
+542,2015.0,7.0,Pobreza alta,Mujer,12-29,29709.0,247731556317000.0,346448443683000.0,Adec. Sanitaria,Iztapalapa
+543,2015.0,7.0,Pobreza moderada,Mujer,45-59,26255.0,230184053304000.0,294915946696000.0,Adec. Sanitaria,Iztapalapa
+544,2015.0,7.0,Pobreza moderada,Mujer,60 y mas,18351.0,163960730424000.0,203059269576000.0,Adec. Sanitaria,Iztapalapa
+545,2015.0,7.0,Satisfaccion mínima,Hombre,12-29,166739.0,153829708078000.0,179648291922000.0,Adec. Sanitaria,Iztapalapa
+546,2015.0,7.0,Satisfaccion mínima,Hombre,45-59,101214.0,925778612598000.0,109850138740000.0,Adec. Sanitaria,Iztapalapa
+547,2015.0,7.0,Satisfaccion mínima,Mujer,0-11,89159.0,825540934594000.0,957639065406000.0,Adec. Sanitaria,Iztapalapa
+548,2015.0,7.0,Satisfaccion mínima,Mujer,30-44,147785.0,136781857086000.0,158788142914000.0,Adec. Sanitaria,Iztapalapa
+549,2015.0,7.0,Satisfaccion mínima,Mujer,45-59,122440.0,111378572778000.0,133501427222000.0,Adec. Sanitaria,Iztapalapa
+550,2015.0,8.0,Pobreza muy alta,Hombre,12-29,2843.0,151542281600000.0,417057718400000.0,Adec. Sanitaria,La Magdalena Contreras
+551,2015.0,8.0,Pobreza muy alta,Hombre,45-59,1327.0,697254693992000.0,19567453060100.0,Adec. Sanitaria,La Magdalena Contreras
+552,2015.0,8.0,Pobreza muy alta,Mujer,0-11,1099.0,464807509721000.0,173319249028000.0,Adec. Sanitaria,La Magdalena Contreras
+553,2015.0,8.0,Pobreza muy alta,Mujer,12-29,2417.0,140845495173000.0,342554504827000.0,Adec. Sanitaria,La Magdalena Contreras
+554,2015.0,8.0,Pobreza muy alta,Mujer,45-59,1479.0,926029515469000.0,203197048453000.0,Adec. Sanitaria,La Magdalena Contreras
+555,2015.0,8.0,Pobreza muy alta,Mujer,60 y mas,1044.0,60127992049500.0,148672007950000.0,Adec. Sanitaria,La Magdalena Contreras
+556,2015.0,8.0,Pobreza alta,Hombre,0-11,2235.0,137722010312000.0,309277989688000.0,Adec. Sanitaria,La Magdalena Contreras
+557,2015.0,8.0,Pobreza alta,Hombre,60 y mas,692.0,460664420880000.0,923335579120000.0,Adec. Sanitaria,La Magdalena Contreras
+558,2015.0,8.0,Pobreza alta,Mujer,0-11,2210.0,1322056627880.0,3097943372120.0,Adec. Sanitaria,La Magdalena Contreras
+559,2015.0,8.0,Pobreza alta,Mujer,60 y mas,879.0,543630311722000.0,121436968828000.0,Adec. Sanitaria,La Magdalena Contreras
+560,2015.0,8.0,Pobreza moderada,Hombre,30-44,4231.0,303096550302000.0,543103449698000.0,Adec. Sanitaria,La Magdalena Contreras
+561,2015.0,8.0,Pobreza moderada,Hombre,45-59,2713.0,194088979833000.0,348511020167000.0,Adec. Sanitaria,La Magdalena Contreras
+562,2015.0,8.0,Satisfaccion mínima,Hombre,30-44,18676.0,150513245227000.0,223006754773000.0,Adec. Sanitaria,La Magdalena Contreras
+563,2015.0,8.0,Satisfaccion mínima,Hombre,45-59,14540.0,119980507454000.0,170819492546000.0,Adec. Sanitaria,La Magdalena Contreras
+564,2015.0,8.0,Satisfaccion mínima,Hombre,No especificado,38.0,-121938297040000.0,881938297040000.0,Adec. Sanitaria,La Magdalena Contreras
+565,2015.0,8.0,Satisfaccion mínima,Mujer,30-44,20800.0,164555463549000.0,251444536451000.0,Adec. Sanitaria,La Magdalena Contreras
+566,2015.0,8.0,Satisfaccion mínima,Mujer,45-59,16523.0,138684900108000.0,191775099892000.0,Adec. Sanitaria,La Magdalena Contreras
+567,2015.0,9.0,Pobreza muy alta,Hombre,12-29,5833.0,316493859267000.0,850106140733000.0,Adec. Sanitaria,Milpa Alta
+568,2015.0,9.0,Pobreza muy alta,Hombre,45-59,2083.0,106874566020000.0,309725433980000.0,Adec. Sanitaria,Milpa Alta
+569,2015.0,9.0,Pobreza muy alta,Hombre,No especificado,5.0,-507559458361000.0,150755945836000.0,Adec. Sanitaria,Milpa Alta
+570,2015.0,9.0,Pobreza muy alta,Mujer,0-11,3903.0,230927521318000.0,549672478682000.0,Adec. Sanitaria,Milpa Alta
+571,2015.0,9.0,Pobreza alta,Hombre,30-44,2660.0,183127307793000.0,348872692207000.0,Adec. Sanitaria,Milpa Alta
+572,2015.0,9.0,Pobreza alta,Mujer,45-59,1864.0,108565807623000.0,264234192377000.0,Adec. Sanitaria,Milpa Alta
+573,2015.0,9.0,Pobreza moderada,Mujer,0-11,3984.0,228344708937000.0,568455291063000.0,Adec. Sanitaria,Milpa Alta
+574,2015.0,9.0,Pobreza moderada,Mujer,30-44,4270.0,252517099079000.0,601482900921000.0,Adec. Sanitaria,Milpa Alta
+575,2015.0,9.0,Satisfaccion mínima,Hombre,0-11,3681.0,236950702134000.0,499249297866000.0,Adec. Sanitaria,Milpa Alta
+576,2015.0,9.0,Satisfaccion mínima,Mujer,0-11,3994.0,268576650154000.0,530223349846000.0,Adec. Sanitaria,Milpa Alta
+577,2015.0,9.0,Satisfaccion mínima,Mujer,12-29,6307.0,433368146069000.0,828031853931000.0,Adec. Sanitaria,Milpa Alta
+578,2015.0,9.0,Satisfaccion mínima,Mujer,30-44,5116.0,347580856755000.0,675619143245000.0,Adec. Sanitaria,Milpa Alta
+579,2015.0,9.0,Satisfaccion mínima,Mujer,45-59,3947.0,272562520659000.0,516837479341000.0,Adec. Sanitaria,Milpa Alta
+580,2015.0,9.0,Satisfaccion mínima,Mujer,No especificado,7.0,-980468869085000.0,238046886908000.0,Adec. Sanitaria,Milpa Alta
+581,2015.0,10.0,Pobreza muy alta,Hombre,0-11,3976.0,258569680419000.0,536630319581000.0,Adec. Sanitaria,Álvaro Obregón
+582,2015.0,10.0,Pobreza muy alta,Hombre,60 y mas,1591.0,106162678246000.0,212037321754000.0,Adec. Sanitaria,Álvaro Obregón
+583,2015.0,10.0,Pobreza muy alta,Mujer,12-29,4803.0,322738539510000.0,637861460490000.0,Adec. Sanitaria,Álvaro Obregón
+584,2015.0,10.0,Pobreza muy alta,Mujer,30-44,3988.0,265771398206000.0,531828601794000.0,Adec. Sanitaria,Álvaro Obregón
+585,2015.0,10.0,Pobreza alta,Hombre,12-29,6621.0,44756053847300.0,876639461527000.0,Adec. Sanitaria,Álvaro Obregón
+586,2015.0,10.0,Pobreza alta,Hombre,45-59,2368.0,158252413544000.0,315347586456000.0,Adec. Sanitaria,Álvaro Obregón
+587,2015.0,10.0,Pobreza alta,Hombre,60 y mas,1478.0,812121120714000.0,214387887929000.0,Adec. Sanitaria,Álvaro Obregón
+588,2015.0,10.0,Pobreza moderada,Hombre,45-59,8238.0,64876249110400.0,99883750889600.0,Adec. Sanitaria,Álvaro Obregón
+589,2015.0,10.0,Pobreza moderada,Mujer,30-44,12704.0,99510407392000.0,154569592608000.0,Adec. Sanitaria,Álvaro Obregón
+590,2015.0,10.0,Pobreza moderada,Mujer,45-59,9959.0,768606315764000.0,122319368424000.0,Adec. Sanitaria,Álvaro Obregón
+591,2015.0,10.0,Pobreza moderada,Mujer,No especificado,29.0,-168573126531000.0,748573126531000.0,Adec. Sanitaria,Álvaro Obregón
+592,2015.0,10.0,Satisfaccion mínima,Hombre,0-11,40189.0,34695269448800.0,45682730551200.0,Adec. Sanitaria,Álvaro Obregón
+593,2015.0,10.0,Satisfaccion mínima,Hombre,60 y mas,36440.0,321839044254000.0,406960955746000.0,Adec. Sanitaria,Álvaro Obregón
+594,2015.0,10.0,Satisfaccion mínima,Mujer,0-11,42431.0,354010685680000.0,494609314320000.0,Adec. Sanitaria,Álvaro Obregón
+595,2015.0,10.0,Satisfaccion mínima,Mujer,60 y mas,45523.0,40225474735900.0,50820525264100.0,Adec. Sanitaria,Álvaro Obregón
+596,2015.0,10.0,Satisfaccion mínima,Mujer,No especificado,181.0,-145936848487000.0,376593684849000.0,Adec. Sanitaria,Álvaro Obregón
+597,2015.0,11.0,Pobreza muy alta,Hombre,45-59,1512.0,882824014832000.0,214117598517000.0,Adec. Sanitaria,Tláhuac
+598,2015.0,11.0,Pobreza alta,Hombre,30-44,4683.0,361630495108000.0,574969504892000.0,Adec. Sanitaria,Tláhuac
+599,2015.0,11.0,Pobreza alta,Hombre,45-59,3174.0,208088498522000.0,426711501478000.0,Adec. Sanitaria,Tláhuac
+600,2015.0,11.0,Pobreza alta,Mujer,0-11,5435.0,412338004005000.0,674661995995000.0,Adec. Sanitaria,Tláhuac
+601,2015.0,11.0,Pobreza alta,Mujer,12-29,8096.0,615380890341000.0,100381910966000.0,Adec. Sanitaria,Tláhuac
+602,2015.0,11.0,Pobreza alta,Mujer,45-59,4041.0,271979438736000.0,536220561264000.0,Adec. Sanitaria,Tláhuac
+603,2015.0,11.0,Pobreza moderada,Hombre,0-11,7333.0,564892508572000.0,901707491428000.0,Adec. Sanitaria,Tláhuac
+604,2015.0,11.0,Pobreza moderada,Hombre,45-59,4974.0,38785938475500.0,60694061524500.0,Adec. Sanitaria,Tláhuac
+605,2015.0,11.0,Pobreza moderada,Mujer,No especificado,15.0,-172856661792000.0,472856661792000.0,Adec. Sanitaria,Tláhuac
+606,2015.0,11.0,Satisfaccion mínima,Hombre,30-44,23563.0,207855529997000.0,263404470003000.0,Adec. Sanitaria,Tláhuac
+607,2015.0,11.0,Satisfaccion mínima,Mujer,0-11,16885.0,139769213295000.0,197930786705000.0,Adec. Sanitaria,Tláhuac
+608,2015.0,11.0,Satisfaccion mínima,Mujer,No especificado,13.0,-176839465688000.0,436839465688000.0,Adec. Sanitaria,Tláhuac
+609,2015.0,12.0,Pobreza muy alta,Hombre,45-59,8906.0,677132106560000.0,110406789344000.0,Adec. Sanitaria,Tlalpan
+610,2015.0,12.0,Pobreza muy alta,Mujer,0-11,13927.0,102744295021000.0,175795704979000.0,Adec. Sanitaria,Tlalpan
+611,2015.0,12.0,Pobreza muy alta,Mujer,No especificado,18.0,-981326527345000.0,458132652735000.0,Adec. Sanitaria,Tlalpan
+612,2015.0,12.0,Pobreza alta,Hombre,0-11,6973.0,504634398529000.0,889965601471000.0,Adec. Sanitaria,Tlalpan
+613,2015.0,12.0,Pobreza alta,Hombre,45-59,3477.0,257794046159000.0,437605953841000.0,Adec. Sanitaria,Tlalpan
+614,2015.0,12.0,Pobreza alta,Hombre,60 y mas,2312.0,165332353309000.0,297067646691000.0,Adec. Sanitaria,Tlalpan
+615,2015.0,12.0,Pobreza alta,Hombre,No especificado,3.0,-398834584141000.0,998834584141000.0,Adec. Sanitaria,Tlalpan
+616,2015.0,12.0,Pobreza alta,Mujer,0-11,6408.0,462313290822000.0,819286709178000.0,Adec. Sanitaria,Tlalpan
+617,2015.0,12.0,Pobreza alta,Mujer,60 y mas,2917.0,217357823967000.0,366042176033000.0,Adec. Sanitaria,Tlalpan
+618,2015.0,12.0,Pobreza moderada,Hombre,0-11,7618.0,610657376168000.0,912942623832000.0,Adec. Sanitaria,Tlalpan
+619,2015.0,12.0,Pobreza moderada,Hombre,30-44,8246.0,656732388050000.0,992467611950000.0,Adec. Sanitaria,Tlalpan
+620,2015.0,12.0,Pobreza moderada,Mujer,0-11,7398.0,575765267162000.0,903834732838000.0,Adec. Sanitaria,Tlalpan
+621,2015.0,12.0,Pobreza moderada,Mujer,12-29,12032.0,99038213426000.0,141601786574000.0,Adec. Sanitaria,Tlalpan
+622,2015.0,12.0,Satisfaccion mínima,Hombre,0-11,27949.0,238926406443000.0,320053593557000.0,Adec. Sanitaria,Tlalpan
+623,2015.0,12.0,Satisfaccion mínima,Hombre,60 y mas,29120.0,24779217758900.0,33460782241100.0,Adec. Sanitaria,Tlalpan
+624,2015.0,12.0,Satisfaccion mínima,Mujer,0-11,28165.0,241728872419000.0,321571127581000.0,Adec. Sanitaria,Tlalpan
+625,2015.0,12.0,Satisfaccion mínima,Mujer,30-44,51998.0,448107959474000.0,591852040526000.0,Adec. Sanitaria,Tlalpan
+626,2015.0,12.0,Satisfaccion mínima,Mujer,No especificado,134.0,-386624211101000.0,271866242111000.0,Adec. Sanitaria,Tlalpan
+627,2015.0,13.0,Pobreza muy alta,Hombre,0-11,7233.0,564709822474000.0,881890177526000.0,Adec. Sanitaria,Xochimilco
+628,2015.0,13.0,Pobreza muy alta,Hombre,12-29,10681.0,844866444326000.0,12913335556700.0,Adec. Sanitaria,Xochimilco
+629,2015.0,13.0,Pobreza muy alta,Hombre,30-44,7389.0,554901941103000.0,922898058897000.0,Adec. Sanitaria,Xochimilco
+630,2015.0,13.0,Pobreza muy alta,Hombre,45-59,4514.0,341528376531000.0,561271623469000.0,Adec. Sanitaria,Xochimilco
+631,2015.0,13.0,Pobreza muy alta,Hombre,No especificado,9.0,-418669908956000.0,221866990896000.0,Adec. Sanitaria,Xochimilco
+632,2015.0,13.0,Pobreza muy alta,Mujer,0-11,8952.0,581412084218000.0,12089879157800.0,Adec. Sanitaria,Xochimilco
+633,2015.0,13.0,Pobreza muy alta,Mujer,30-44,7296.0,575013398859000.0,884186601141000.0,Adec. Sanitaria,Xochimilco
+634,2015.0,13.0,Pobreza muy alta,Mujer,60 y mas,2394.0,173031947897000.0,305768052103000.0,Adec. Sanitaria,Xochimilco
+635,2015.0,13.0,Pobreza muy alta,Mujer,No especificado,15.0,167285280262000.0,283271471974000.0,Adec. Sanitaria,Xochimilco
+636,2015.0,13.0,Pobreza alta,Hombre,12-29,9951.0,633355354441000.0,13568446455600.0,Adec. Sanitaria,Xochimilco
+637,2015.0,13.0,Pobreza alta,Hombre,60 y mas,2394.0,148065997749000.0,330734002251000.0,Adec. Sanitaria,Xochimilco
+638,2015.0,13.0,Pobreza alta,Hombre,No especificado,2.0,-192219937583000.0,592219937583000.0,Adec. Sanitaria,Xochimilco
+639,2015.0,13.0,Pobreza alta,Mujer,0-11,6510.0,410804658905000.0,891195341095000.0,Adec. Sanitaria,Xochimilco
+640,2015.0,13.0,Pobreza alta,Mujer,12-29,9870.0,650328217048000.0,132367178295000.0,Adec. Sanitaria,Xochimilco
+641,2015.0,13.0,Pobreza alta,Mujer,No especificado,45.0,-233178736597000.0,113317873660000.0,Adec. Sanitaria,Xochimilco
+642,2015.0,13.0,Pobreza moderada,Hombre,45-59,6460.0,43100944839000.0,86099055161000.0,Adec. Sanitaria,Xochimilco
+643,2015.0,13.0,Pobreza moderada,Mujer,0-11,8329.0,543529770962000.0,11222702290400.0,Adec. Sanitaria,Xochimilco
+644,2015.0,13.0,Pobreza moderada,Mujer,12-29,13189.0,801327700051000.0,183647229995000.0,Adec. Sanitaria,Xochimilco
+645,2015.0,13.0,Pobreza moderada,Mujer,45-59,7902.0,537717391483000.0,104268260852000.0,Adec. Sanitaria,Xochimilco
+646,2015.0,13.0,Pobreza moderada,Mujer,60 y mas,5093.0,327107543457000.0,691492456543000.0,Adec. Sanitaria,Xochimilco
+647,2015.0,13.0,Satisfaccion mínima,Mujer,60 y mas,15553.0,118056461100000.0,193003538900000.0,Adec. Sanitaria,Xochimilco
+648,2015.0,13.0,Satisfaccion mínima,Mujer,No especificado,42.0,-413290037743000.0,125329003774000.0,Adec. Sanitaria,Xochimilco
+649,2015.0,14.0,Pobreza muy alta,Hombre,12-29,1023.0,367892940257000.0,167810705974000.0,Adec. Sanitaria,Benito Juárez
+650,2015.0,14.0,Pobreza muy alta,Mujer,0-11,894.0,136387288468000.0,165161271153000.0,Adec. Sanitaria,Benito Juárez
+651,2015.0,14.0,Pobreza muy alta,Mujer,30-44,899.0,394572866468000.0,14034271335300.0,Adec. Sanitaria,Benito Juárez
+652,2015.0,14.0,Pobreza muy alta,Mujer,45-59,793.0,201479413037000.0,138452058696000.0,Adec. Sanitaria,Benito Juárez
+653,2015.0,14.0,Pobreza alta,Mujer,30-44,851.0,241332872601000.0,146066712740000.0,Adec. Sanitaria,Benito Juárez
+654,2015.0,14.0,Pobreza alta,Mujer,No especificado,16.0,-188722944149000.0,508722944149000.0,Adec. Sanitaria,Benito Juárez
+655,2015.0,14.0,Pobreza moderada,Hombre,0-11,907.0,441493570970000.0,137250642903000.0,Adec. Sanitaria,Benito Juárez
+656,2015.0,14.0,Pobreza moderada,Hombre,12-29,1701.0,831478014106000.0,257052198589000.0,Adec. Sanitaria,Benito Juárez
+657,2015.0,14.0,Pobreza moderada,Hombre,30-44,2130.0,14081956163900.0,28518043836100.0,Adec. Sanitaria,Benito Juárez
+658,2015.0,14.0,Pobreza moderada,Mujer,0-11,1580.0,450382493009000.0,270961750699000.0,Adec. Sanitaria,Benito Juárez
+659,2015.0,14.0,Satisfaccion mínima,Hombre,12-29,42021.0,339511727506000.0,500908272494000.0,Adec. Sanitaria,Benito Juárez
+660,2015.0,14.0,Satisfaccion mínima,Hombre,No especificado,99.0,-345203220485000.0,2325203220480.0,Adec. Sanitaria,Benito Juárez
+661,2015.0,14.0,Satisfaccion mínima,Mujer,0-11,18307.0,149272259863000.0,216867740137000.0,Adec. Sanitaria,Benito Juárez
+662,2015.0,15.0,Pobreza muy alta,Hombre,0-11,1503.0,44096765263600.0,256503234736000.0,Adec. Sanitaria,Cuauhtémoc
+663,2015.0,15.0,Pobreza muy alta,Hombre,12-29,1944.0,10886752847300.0,27993247152700.0,Adec. Sanitaria,Cuauhtémoc
+664,2015.0,15.0,Pobreza muy alta,Hombre,45-59,1520.0,941330087734000.0,209866991227000.0,Adec. Sanitaria,Cuauhtémoc
+665,2015.0,15.0,Pobreza muy alta,Hombre,No especificado,10.0,-168981556849000.0,368981556849000.0,Adec. Sanitaria,Cuauhtémoc
+666,2015.0,15.0,Pobreza muy alta,Mujer,30-44,2060.0,135416884396000.0,276583115604000.0,Adec. Sanitaria,Cuauhtémoc
+667,2015.0,15.0,Pobreza muy alta,Mujer,45-59,1182.0,707389186269000.0,165661081373000.0,Adec. Sanitaria,Cuauhtémoc
+668,2015.0,15.0,Pobreza alta,Hombre,0-11,1525.0,816659258365000.0,223334074164000.0,Adec. Sanitaria,Cuauhtémoc
+669,2015.0,15.0,Pobreza alta,Hombre,60 y mas,1159.0,691656927483000.0,162634307252000.0,Adec. Sanitaria,Cuauhtémoc
+670,2015.0,15.0,Pobreza alta,Mujer,60 y mas,1561.0,908993817590000.0,22130061824100.0,Adec. Sanitaria,Cuauhtémoc
+671,2015.0,15.0,Pobreza moderada,Hombre,45-59,3786.0,212106531992000.0,545093468008000.0,Adec. Sanitaria,Cuauhtémoc
+672,2015.0,15.0,Pobreza moderada,Hombre,60 y mas,3123.0,154074026667000.0,470525973333000.0,Adec. Sanitaria,Cuauhtémoc
+673,2015.0,15.0,Pobreza moderada,Hombre,No especificado,36.0,-565790989839000.0,128579098984000.0,Adec. Sanitaria,Cuauhtémoc
+674,2015.0,15.0,Pobreza moderada,Mujer,12-29,6522.0,418053044904000.0,886346955096000.0,Adec. Sanitaria,Cuauhtémoc
+675,2015.0,15.0,Pobreza moderada,Mujer,30-44,5637.0,337486276011000.0,789913723989000.0,Adec. Sanitaria,Cuauhtémoc
+676,2015.0,15.0,Pobreza moderada,Mujer,45-59,4079.0,274131824159000.0,541668175841000.0,Adec. Sanitaria,Cuauhtémoc
+677,2015.0,15.0,Satisfaccion mínima,Hombre,12-29,60696.0,523781235186000.0,690138764814000.0,Adec. Sanitaria,Cuauhtémoc
+678,2015.0,15.0,Satisfaccion mínima,Hombre,45-59,39357.0,345633649866000.0,441506350134000.0,Adec. Sanitaria,Cuauhtémoc
+679,2015.0,15.0,Satisfaccion mínima,Mujer,45-59,47571.0,408138416847000.0,543281583153000.0,Adec. Sanitaria,Cuauhtémoc
+680,2015.0,16.0,Pobreza muy alta,Hombre,45-59,988.0,594422048923000.0,138157795108000.0,Adec. Sanitaria,Miguel Hidalgo
+681,2015.0,16.0,Pobreza muy alta,Hombre,60 y mas,844.0,300414293971000.0,13875857060300.0,Adec. Sanitaria,Miguel Hidalgo
+682,2015.0,16.0,Pobreza muy alta,Mujer,0-11,614.0,240732755866000.0,987267244134000.0,Adec. Sanitaria,Miguel Hidalgo
+683,2015.0,16.0,Pobreza muy alta,Mujer,60 y mas,799.0,195353636071000.0,140264636393000.0,Adec. Sanitaria,Miguel Hidalgo
+684,2015.0,16.0,Pobreza alta,Hombre,12-29,1446.0,806550168381000.0,20854498316200.0,Adec. Sanitaria,Miguel Hidalgo
+685,2015.0,16.0,Pobreza alta,Hombre,45-59,1095.0,507633329386000.0,1682366670610.0,Adec. Sanitaria,Miguel Hidalgo
+686,2015.0,16.0,Pobreza alta,Hombre,60 y mas,874.0,532048977074000.0,121595102293000.0,Adec. Sanitaria,Miguel Hidalgo
+687,2015.0,16.0,Pobreza alta,Mujer,0-11,920.0,289027694428000.0,155097230557000.0,Adec. Sanitaria,Miguel Hidalgo
+688,2015.0,16.0,Pobreza alta,Mujer,60 y mas,1089.0,62509363489400.0,155290636511000.0,Adec. Sanitaria,Miguel Hidalgo
+689,2015.0,16.0,Pobreza moderada,Hombre,0-11,1372.0,699071247388000.0,204492875261000.0,Adec. Sanitaria,Miguel Hidalgo
+690,2015.0,16.0,Pobreza moderada,Hombre,12-29,2345.0,108316427162000.0,360683572838000.0,Adec. Sanitaria,Miguel Hidalgo
+691,2015.0,16.0,Pobreza moderada,Hombre,60 y mas,1662.0,972312311808000.0,235168768819000.0,Adec. Sanitaria,Miguel Hidalgo
+692,2015.0,16.0,Pobreza moderada,Mujer,No especificado,17.0,-19114092295500.0,53114092295500.0,Adec. Sanitaria,Miguel Hidalgo
+693,2015.0,16.0,Satisfaccion mínima,Hombre,12-29,35988.0,248221353517000.0,471538646483000.0,Adec. Sanitaria,Miguel Hidalgo
+694,2015.0,16.0,Satisfaccion mínima,Hombre,No especificado,143.0,-652790920091000.0,351279092009000.0,Adec. Sanitaria,Miguel Hidalgo
+695,2015.0,16.0,Satisfaccion mínima,Mujer,45-59,30878.0,223887257482000.0,393672742518000.0,Adec. Sanitaria,Miguel Hidalgo
+696,2015.0,16.0,Satisfaccion mínima,Mujer,60 y mas,31624.0,24666817521200.0,38581182478800.0,Adec. Sanitaria,Miguel Hidalgo
+697,2015.0,17.0,Pobreza muy alta,Hombre,45-59,1050.0,530788188283000.0,156921181172000.0,Adec. Sanitaria,Venustiano Carranza
+698,2015.0,17.0,Pobreza muy alta,Hombre,60 y mas,736.0,332591429602000.0,113940857040000.0,Adec. Sanitaria,Venustiano Carranza
+699,2015.0,17.0,Pobreza muy alta,Mujer,0-11,1262.0,502508620370000.0,202149137963000.0,Adec. Sanitaria,Venustiano Carranza
+700,2015.0,17.0,Pobreza muy alta,Mujer,12-29,1621.0,563699845134000.0,267830015487000.0,Adec. Sanitaria,Venustiano Carranza
+701,2015.0,17.0,Pobreza muy alta,Mujer,30-44,1914.0,838845773416000.0,298915422658000.0,Adec. Sanitaria,Venustiano Carranza
+702,2015.0,17.0,Pobreza muy alta,Mujer,60 y mas,1263.0,42317362368700.0,210282637631000.0,Adec. Sanitaria,Venustiano Carranza
+703,2015.0,17.0,Pobreza alta,Hombre,12-29,1937.0,112651826316000.0,274748173684000.0,Adec. Sanitaria,Venustiano Carranza
+704,2015.0,17.0,Pobreza alta,Hombre,30-44,1702.0,95276340695800.0,245123659304000.0,Adec. Sanitaria,Venustiano Carranza
+705,2015.0,17.0,Pobreza alta,Mujer,30-44,1724.0,10089960884300.0,24390039115700.0,Adec. Sanitaria,Venustiano Carranza
+706,2015.0,17.0,Pobreza alta,Mujer,45-59,1369.0,629348715091000.0,210865128491000.0,Adec. Sanitaria,Venustiano Carranza
+707,2015.0,17.0,Pobreza moderada,Hombre,12-29,5427.0,359125871384000.0,726274128616000.0,Adec. Sanitaria,Venustiano Carranza
+708,2015.0,17.0,Pobreza moderada,Hombre,30-44,5036.0,266876557455000.0,740323442545000.0,Adec. Sanitaria,Venustiano Carranza
+709,2015.0,17.0,Pobreza moderada,Hombre,45-59,3469.0,209883572356000.0,483916427644000.0,Adec. Sanitaria,Venustiano Carranza
+710,2015.0,17.0,Pobreza moderada,Mujer,12-29,5655.0,374955699634000.0,756044300366000.0,Adec. Sanitaria,Venustiano Carranza
+711,2015.0,17.0,Pobreza moderada,Mujer,45-59,3914.0,253964986612000.0,528835013388000.0,Adec. Sanitaria,Venustiano Carranza
+712,2015.0,17.0,Satisfaccion mínima,Hombre,60 y mas,23697.0,204373218357000.0,269566781643000.0,Adec. Sanitaria,Venustiano Carranza
+713,2015.0,17.0,Satisfaccion mínima,Mujer,12-29,46952.0,408169808236000.0,530870191764000.0,Adec. Sanitaria,Venustiano Carranza

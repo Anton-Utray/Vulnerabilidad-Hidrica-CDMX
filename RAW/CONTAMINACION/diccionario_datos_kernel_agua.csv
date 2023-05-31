@@ -1,0 +1,17 @@
+Clave Subsistemas Nacional de Información,Subsistemas Nacionales de Información,"                                            Nombre de la base y/o conjunto de datos
+
+","                                                     Nombre de la tabla de la base de datos / hoja del conjunto de datos
+
+",Descripción de capa,Etiqueta del campo o variable ,Descripció de Campo,"Tipo de dato
+",Rango o valores que permite el campo,"Clasificación de la información
+","Especificaciones y/o reglas de cálculo
+ 
+","Obligatoriedad del campo
+ 
+","Registro de campos vacíos 
+ 
+","Tipo de archivo:
+"
+03,Riesgos (Residuos peligrosos y Residuos sólidos),kernel_agua,Contaminación de agua,Densidad de las denuncias de contaminación de agua en la Ciudad de México.,ID,IDENTIFICADOR,Número entero ,Numero consecutivo,Pública,,Obligatorio,Sin datos vacios,Shape file (.shp)
+03,Riesgos (Residuos peligrosos y Residuos sólidos),kernel_agua,Contaminación de agua,Densidad de las denuncias de contaminación de agua en la Ciudad de México.,GRIDCODE,NIVEL DE CONTAMINACIÓN DE AGUA,Número entero ,0 a 2,Pública,,Obligatorio,Sin datos vacios,Shape file (.shp)
+03,Riesgos (Residuos peligrosos y Residuos sólidos),kernel_agua,Contaminación de agua,Densidad de las denuncias de contaminación de agua en la Ciudad de México.,Valores,VALORES,Número decimales,0.001938 - 0.168035  a   0.168035 - 0.494131,Pública,,Obligatorio,Con datos vacios,Shape file (.shp)

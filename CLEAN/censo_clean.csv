@@ -1,0 +1,234 @@
+alcaldia,disponibilidad,fuente,poblacion,alcaldia_id
+Álvaro Obregón,si,Del servicio público de agua,744504,010
+Álvaro Obregón,si,De un pozo comunitario,5020,010
+Álvaro Obregón,si,De un pozo particular,170,010
+Álvaro Obregón,si,De una pipa,2133,010
+Álvaro Obregón,si,De otra vivienda,637,010
+Álvaro Obregón,si,De la lluvia,26,010
+Álvaro Obregón,si,De otro lugar,308,010
+Álvaro Obregón,si,No especificado,901,010
+Álvaro Obregón,no,Acarreada de un pozo,19,010
+Álvaro Obregón,no,Acarreada de llave comunitaria,412,010
+Álvaro Obregón,no,Acarreada de otra vivienda,460,010
+Álvaro Obregón,no,"Acarreada de un río, arroyo o lago",3,010
+Álvaro Obregón,no,La trae una pipa,633,002
+Álvaro Obregón,no,La recolectan de la lluvia,21,002
+Álvaro Obregón,no,No especificado,1009,002
+Azcapotzalco,si,Del servicio público de agua,426697,002
+Azcapotzalco,si,De un pozo comunitario,386,002
+Azcapotzalco,si,De un pozo particular,65,002
+Azcapotzalco,si,De una pipa,2053,002
+Azcapotzalco,si,De otra vivienda,151,002
+Azcapotzalco,si,De la lluvia,9,002
+Azcapotzalco,si,De otro lugar,54,002
+Azcapotzalco,si,No especificado,112,002
+Azcapotzalco,no,Acarreada de un pozo,32,014
+Azcapotzalco,no,Acarreada de llave comunitaria,442,014
+Azcapotzalco,no,Acarreada de otra vivienda,142,014
+Azcapotzalco,no,La trae una pipa,292,014
+Azcapotzalco,no,La recolectan de la lluvia,6,014
+Azcapotzalco,no,No especificado,359,014
+Benito Juárez,si,Del servicio público de agua,430889,014
+Benito Juárez,si,De un pozo comunitario,112,014
+Benito Juárez,si,De un pozo particular,70,014
+Benito Juárez,si,De una pipa,328,014
+Benito Juárez,si,De otra vivienda,45,014
+Benito Juárez,si,De la lluvia,3,014
+Benito Juárez,si,De otro lugar,72,003
+Benito Juárez,si,No especificado,39,003
+Benito Juárez,no,Acarreada de un pozo,5,003
+Benito Juárez,no,Acarreada de llave comunitaria,24,003
+Benito Juárez,no,Acarreada de otra vivienda,22,003
+Benito Juárez,no,La trae una pipa,32,003
+Benito Juárez,no,La recolectan de la lluvia,5,003
+Benito Juárez,no,No especificado,130,003
+Coyoacán,si,Del servicio público de agua,608854,003
+Coyoacán,si,De un pozo comunitario,811,003
+Coyoacán,si,De un pozo particular,100,003
+Coyoacán,si,De una pipa,590,004
+Coyoacán,si,De otra vivienda,132,004
+Coyoacán,si,De la lluvia,10,004
+Coyoacán,si,De otro lugar,135,004
+Coyoacán,si,No especificado,126,004
+Coyoacán,no,Acarreada de un pozo,10,004
+Coyoacán,no,Acarreada de llave comunitaria,80,004
+Coyoacán,no,Acarreada de otra vivienda,272,004
+Coyoacán,no,La trae una pipa,84,004
+Coyoacán,no,La recolectan de la lluvia,6,004
+Coyoacán,no,No especificado,170,004
+Cuajimalpa de Morelos,si,Del servicio público de agua,199931,004
+Cuajimalpa de Morelos,si,De un pozo comunitario,12239,015
+Cuajimalpa de Morelos,si,De un pozo particular,261,015
+Cuajimalpa de Morelos,si,De una pipa,2001,015
+Cuajimalpa de Morelos,si,De otra vivienda,569,015
+Cuajimalpa de Morelos,si,De la lluvia,57,015
+Cuajimalpa de Morelos,si,De otro lugar,611,015
+Cuajimalpa de Morelos,si,No especificado,311,015
+Cuajimalpa de Morelos,no,Acarreada de un pozo,30,015
+Cuajimalpa de Morelos,no,Acarreada de llave comunitaria,162,015
+Cuajimalpa de Morelos,no,Acarreada de otra vivienda,429,015
+Cuajimalpa de Morelos,no,"Acarreada de un río, arroyo o lago",17,015
+Cuajimalpa de Morelos,no,La trae una pipa,619,015
+Cuajimalpa de Morelos,no,La recolectan de la lluvia,2,015
+Cuajimalpa de Morelos,no,No especificado,241,015
+Cuauhtémoc,si,Del servicio público de agua,537736,005
+Cuauhtémoc,si,De un pozo comunitario,186,005
+Cuauhtémoc,si,De un pozo particular,48,005
+Cuauhtémoc,si,De una pipa,327,005
+Cuauhtémoc,si,De otra vivienda,201,005
+Cuauhtémoc,si,De la lluvia,2,005
+Cuauhtémoc,si,De otro lugar,138,005
+Cuauhtémoc,si,No especificado,53,005
+Cuauhtémoc,no,Acarreada de un pozo,1,005
+Cuauhtémoc,no,Acarreada de llave comunitaria,205,005
+Cuauhtémoc,no,Acarreada de otra vivienda,145,005
+Cuauhtémoc,no,"Acarreada de un río, arroyo o lago",10,006
+Cuauhtémoc,no,La trae una pipa,208,006
+Cuauhtémoc,no,La recolectan de la lluvia,18,006
+Cuauhtémoc,no,No especificado,88,006
+Gustavo A. Madero,si,Del servicio público de agua,1151028,006
+Gustavo A. Madero,si,De un pozo comunitario,4213,006
+Gustavo A. Madero,si,De un pozo particular,137,006
+Gustavo A. Madero,si,De una pipa,2350,006
+Gustavo A. Madero,si,De otra vivienda,439,006
+Gustavo A. Madero,si,De la lluvia,5,006
+Gustavo A. Madero,si,De otro lugar,143,006
+Gustavo A. Madero,si,No especificado,317,006
+Gustavo A. Madero,no,Acarreada de un pozo,21,007
+Gustavo A. Madero,no,Acarreada de llave comunitaria,1546,007
+Gustavo A. Madero,no,Acarreada de otra vivienda,473,007
+Gustavo A. Madero,no,La trae una pipa,723,007
+Gustavo A. Madero,no,La recolectan de la lluvia,20,007
+Gustavo A. Madero,no,No especificado,359,007
+Iztacalco,si,Del servicio público de agua,400221,007
+Iztacalco,si,De un pozo comunitario,99,007
+Iztacalco,si,De un pozo particular,29,007
+Iztacalco,si,De una pipa,1713,007
+Iztacalco,si,De otra vivienda,275,007
+Iztacalco,si,De la lluvia,4,007
+Iztacalco,si,De otro lugar,349,008
+Iztacalco,si,No especificado,106,008
+Iztacalco,no,Acarreada de un pozo,10,008
+Iztacalco,no,Acarreada de llave comunitaria,37,008
+Iztacalco,no,Acarreada de otra vivienda,157,008
+Iztacalco,no,La trae una pipa,106,008
+Iztacalco,no,La recolectan de la lluvia,3,008
+Iztacalco,no,No especificado,173,008
+Iztapalapa,si,Del servicio público de agua,1786871,008
+Iztapalapa,si,De un pozo comunitario,2840,008
+Iztapalapa,si,De un pozo particular,116,008
+Iztapalapa,si,De una pipa,22309,008
+Iztapalapa,si,De otra vivienda,737,016
+Iztapalapa,si,De la lluvia,153,016
+Iztapalapa,si,De otro lugar,188,016
+Iztapalapa,si,No especificado,102,016
+Iztapalapa,no,Acarreada de un pozo,43,016
+Iztapalapa,no,Acarreada de llave comunitaria,405,016
+Iztapalapa,no,Acarreada de otra vivienda,676,016
+Iztapalapa,no,"Acarreada de un río, arroyo o lago",8,016
+Iztapalapa,no,La trae una pipa,3706,016
+Iztapalapa,no,La recolectan de la lluvia,18,016
+Iztapalapa,no,No especificado,220,016
+La Magdalena Contreras,si,Del servicio público de agua,234014,009
+La Magdalena Contreras,si,De un pozo comunitario,5752,009
+La Magdalena Contreras,si,De un pozo particular,903,009
+La Magdalena Contreras,si,De una pipa,1703,009
+La Magdalena Contreras,si,De otra vivienda,252,009
+La Magdalena Contreras,si,De la lluvia,23,009
+La Magdalena Contreras,si,De otro lugar,558,009
+La Magdalena Contreras,si,No especificado,96,009
+La Magdalena Contreras,no,Acarreada de un pozo,1160,009
+La Magdalena Contreras,no,Acarreada de llave comunitaria,134,009
+La Magdalena Contreras,no,Acarreada de otra vivienda,282,009
+La Magdalena Contreras,no,"Acarreada de un río, arroyo o lago",91,009
+La Magdalena Contreras,no,La trae una pipa,1499,009
+La Magdalena Contreras,no,La recolectan de la lluvia,24,009
+La Magdalena Contreras,no,No especificado,56,011
+Miguel Hidalgo,si,Del servicio público de agua,405100,011
+Miguel Hidalgo,si,De un pozo comunitario,321,011
+Miguel Hidalgo,si,De un pozo particular,91,011
+Miguel Hidalgo,si,De una pipa,110,011
+Miguel Hidalgo,si,De otra vivienda,57,011
+Miguel Hidalgo,si,De la lluvia,5,011
+Miguel Hidalgo,si,De otro lugar,39,011
+Miguel Hidalgo,si,No especificado,92,011
+Miguel Hidalgo,no,Acarreada de un pozo,3,011
+Miguel Hidalgo,no,Acarreada de llave comunitaria,159,011
+Miguel Hidalgo,no,Acarreada de otra vivienda,95,011
+Miguel Hidalgo,no,La trae una pipa,53,012
+Miguel Hidalgo,no,La recolectan de la lluvia,3,012
+Miguel Hidalgo,no,No especificado,5901,012
+Milpa Alta,si,Del servicio público de agua,123292,012
+Milpa Alta,si,De un pozo comunitario,5089,012
+Milpa Alta,si,De un pozo particular,311,012
+Milpa Alta,si,De una pipa,6779,012
+Milpa Alta,si,De otra vivienda,573,012
+Milpa Alta,si,De la lluvia,34,012
+Milpa Alta,si,De otro lugar,123,012
+Milpa Alta,si,No especificado,115,012
+Milpa Alta,no,Acarreada de un pozo,663,012
+Milpa Alta,no,Acarreada de llave comunitaria,1005,017
+Milpa Alta,no,Acarreada de otra vivienda,1094,017
+Milpa Alta,no,"Acarreada de un río, arroyo o lago",21,017
+Milpa Alta,no,La trae una pipa,13260,017
+Milpa Alta,no,La recolectan de la lluvia,101,017
+Milpa Alta,no,No especificado,19,017
+Tláhuac,si,Del servicio público de agua,365682,011
+Tláhuac,si,De un pozo comunitario,4053,011
+Tláhuac,si,De un pozo particular,101,011
+Tláhuac,si,De una pipa,10975,011
+Tláhuac,si,De otra vivienda,908,011
+Tláhuac,si,De la lluvia,31,011
+Tláhuac,si,De otro lugar,216,011
+Tláhuac,si,No especificado,132,011
+Tláhuac,no,Acarreada de un pozo,182,011
+Tláhuac,no,Acarreada de llave comunitaria,597,011
+Tláhuac,no,Acarreada de otra vivienda,598,011
+Tláhuac,no,"Acarreada de un río, arroyo o lago",12,011
+Tláhuac,no,La trae una pipa,7543,011
+Tláhuac,no,La recolectan de la lluvia,34,011
+Tláhuac,no,No especificado,157,011
+Tlalpan,si,Del servicio público de agua,562109,012
+Tlalpan,si,De un pozo comunitario,9884,012
+Tlalpan,si,De un pozo particular,1232,012
+Tlalpan,si,De una pipa,85892,012
+Tlalpan,si,De otra vivienda,830,012
+Tlalpan,si,De la lluvia,549,012
+Tlalpan,si,De otro lugar,364,012
+Tlalpan,si,No especificado,220,012
+Tlalpan,no,Acarreada de un pozo,265,012
+Tlalpan,no,Acarreada de llave comunitaria,980,012
+Tlalpan,no,Acarreada de otra vivienda,924,012
+Tlalpan,no,"Acarreada de un río, arroyo o lago",42,012
+Tlalpan,no,La trae una pipa,30510,012
+Tlalpan,no,La recolectan de la lluvia,330,012
+Tlalpan,no,No especificado,549,012
+Venustiano Carranza,si,Del servicio público de agua,440713,017
+Venustiano Carranza,si,De un pozo comunitario,179,017
+Venustiano Carranza,si,De un pozo particular,24,017
+Venustiano Carranza,si,De una pipa,153,017
+Venustiano Carranza,si,De otra vivienda,250,017
+Venustiano Carranza,si,De la lluvia,12,017
+Venustiano Carranza,si,De otro lugar,87,017
+Venustiano Carranza,si,No especificado,68,017
+Venustiano Carranza,no,Acarreada de un pozo,13,017
+Venustiano Carranza,no,Acarreada de llave comunitaria,74,017
+Venustiano Carranza,no,Acarreada de otra vivienda,91,017
+Venustiano Carranza,no,La trae una pipa,52,017
+Venustiano Carranza,no,La recolectan de la lluvia,2,017
+Venustiano Carranza,no,No especificado,464,017
+Xochimilco,si,Del servicio público de agua,365120,013
+Xochimilco,si,De un pozo comunitario,14805,013
+Xochimilco,si,De un pozo particular,752,013
+Xochimilco,si,De una pipa,14133,013
+Xochimilco,si,De otra vivienda,1715,013
+Xochimilco,si,De la lluvia,307,013
+Xochimilco,si,De otro lugar,920,013
+Xochimilco,si,No especificado,1063,013
+Xochimilco,no,Acarreada de un pozo,3224,013
+Xochimilco,no,Acarreada de llave comunitaria,6484,013
+Xochimilco,no,Acarreada de otra vivienda,1752,013
+Xochimilco,no,"Acarreada de un río, arroyo o lago",71,013
+Xochimilco,no,La trae una pipa,26942,013
+Xochimilco,no,La recolectan de la lluvia,234,013
+Xochimilco,no,No especificado,211,013
