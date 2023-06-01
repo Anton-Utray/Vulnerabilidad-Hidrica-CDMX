@@ -1,0 +1,20 @@
+Clave Subsistemas Nacional de Información,Subsistemas Nacionales de Información,"                                            Nombre de la base y/o conjunto de datos
+
+","                                                     Nombre de la tabla de la base de datos / hoja del conjunto de datos
+
+",Descripción de capa,Etiqueta del campo o variable ,Descripció de Campo,"Tipo de dato
+",Rango o valores que permite el campo,"Clasificación de la información
+","Especificaciones y/o reglas de cálculo
+ 
+","Obligatoriedad del campo
+ 
+","Registro de campos vacíos 
+ 
+","Tipo de archivo:
+"
+03,Agua,consumo_total_sacmex,Diferencia consumo total SACMEX,"Capa de información geoespacial que muestra la Diferencia en consumo total SACMEX, (Sistema de Agua de la Ciuda de México). ",ID,IDENTIFICADOR,Número entero ,Número consecutivo,Pública,,Obligatorio,Sin datos vacios,Shape file (.shp)
+03,Agua,consumo_total_sacmex,Diferencia consumo total SACMEX,"Capa de información geoespacial que muestra la Diferencia en consumo total SACMEX, (Sistema de Agua de la Ciuda de México). ",cve_col,CLAVE_COLONIA,Alfanumérico,Catálogo de Colonias Instituto Electoral (IECM),Pública,El código debe tener cinco caracteres,Obligatorio,Sin datos vacios,Shape file (.shp)
+03,Agua,consumo_total_sacmex,Diferencia consumo total SACMEX,"Capa de información geoespacial que muestra la Diferencia en consumo total SACMEX, (Sistema de Agua de la Ciuda de México). ",colonia,COLONIA,Alfanumérico,Catálogo de Colonias Instituto Electoral (IECM),Pública,,Obligatorio,Sin datos vacios,Shape file (.shp)
+03,Agua,consumo_total_sacmex,Diferencia consumo total SACMEX,"Capa de información geoespacial que muestra la Diferencia en consumo total SACMEX, (Sistema de Agua de la Ciuda de México). ",pob_2010,POBLACION_2010,Número entero ,8    a    31179,Pública,,Obligatorio,Sin datos vacios,Shape file (.shp)
+03,Agua,consumo_total_sacmex,Diferencia consumo total SACMEX,"Capa de información geoespacial que muestra la Diferencia en consumo total SACMEX, (Sistema de Agua de la Ciuda de México). ",SUM_cons_t,SUMA DE CONSUMO TOTAL,Número decimales,1.22    a    355451.4,Pública,,Obligatorio,Sin datos vacios,Shape file (.shp)
+03,Agua,consumo_total_sacmex,Diferencia consumo total SACMEX,"Capa de información geoespacial que muestra la Diferencia en consumo total SACMEX, (Sistema de Agua de la Ciuda de México). ",DIF_CON,DIFERENCIA ENTRE CONSUMO TOTAL SACMEX M3 TERCER TRIMESTRE 2019,Número decimales,-237192   a     -106006.95,Pública,,Obligatorio,Sin datos vacios,Shape file (.shp)
