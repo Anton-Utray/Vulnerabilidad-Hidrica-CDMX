@@ -1,0 +1,19 @@
+Clave Subsistemas Nacional de Información,Subsistemas Nacionales de Información,"                                            Nombre de la base y/o conjunto de datos
+
+","                                                     Nombre de la tabla de la base de datos / hoja del conjunto de datos
+
+",Descripción de capa,Etiqueta del campo o variable ,Descripció de Campo,"Tipo de dato
+",Rango o valores que permite el campo,"Clasificación de la información
+","Especificaciones y/o reglas de cálculo
+ 
+","Obligatoriedad del campo
+ 
+","Registro de campos vacíos 
+ 
+","Tipo de archivo:
+"
+03,Agua,tandeo2019,Colonias con distribución de agua por tandeo 2019,"Capa de información geoespacial que muestra la distribución de agua por tandeo en las Colonias, 2019, en Ciudad de México.",ID,IDENTIFICADOR,Número entero ,Número consecutivo,Pública,,Obligatorio,Sin datos vacios,Shape file (.shp)
+03,Agua,tandeo2019,Colonias con distribución de agua por tandeo 2019,"Capa de información geoespacial que muestra la distribución de agua por tandeo en las Colonias, 2019, en Ciudad de México.",ENTIDAD,ENTIDAD,Número entero ,"Clave de AGEE (Área Geoestadistica Estatal), de acuerdo al Marco Geoestadístico Nacional para la Ciudad de México",Pública,El código debe tener dos caracteres,Obligatorio,Sin datos vacios,Shape file (.shp)
+03,Agua,tandeo2019,Colonias con distribución de agua por tandeo 2019,"Capa de información geoespacial que muestra la distribución de agua por tandeo en las Colonias, 2019, en Ciudad de México.",NOMBRE,NOMBRE COLONIA,Alfanumerico,Texto,Pública,,Obligatorio,Sin datos vacios,Shape file (.shp)
+03,Agua,tandeo2019,Colonias con distribución de agua por tandeo 2019,"Capa de información geoespacial que muestra la distribución de agua por tandeo en las Colonias, 2019, en Ciudad de México.",DELEGACIO,DELEGACION,"Nombre de AGEM (Área Geoestadistica Municipal), de acuerdo al Marco Geoestadístico Nacional para la Ciudad de México",Texto,Pública,,Obligatorio,Sin datos vacios,Shape file (.shp)
+03,Agua,tandeo2019,Colonias con distribución de agua por tandeo 2019,"Capa de información geoespacial que muestra la distribución de agua por tandeo en las Colonias, 2019, en Ciudad de México.",tnd_2019,TANDEO 2019,Alfanumerico,Texto,Pública,,Obligatorio,Sin datos vacios,Shape file (.shp)

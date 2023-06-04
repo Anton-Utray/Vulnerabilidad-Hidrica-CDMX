@@ -1,0 +1,122 @@
+alcaldia,disponibilidad,fuente,poblacion
+Azcapotzalco,no,Camion cisterna,2345
+Azcapotzalco,no,De la lluvia,15
+Azcapotzalco,no,De otra vivienda,293
+Azcapotzalco,no,De un pozo particular,65
+Azcapotzalco,no,Llave o pozo comunitario,860
+Azcapotzalco,no,No especificado,525
+Azcapotzalco,si,Del servicio público de agua,426697
+Benito Juárez,no,Camion cisterna,360
+Benito Juárez,no,De la lluvia,8
+Benito Juárez,no,De otra vivienda,67
+Benito Juárez,no,De un pozo particular,70
+Benito Juárez,no,Llave o pozo comunitario,141
+Benito Juárez,no,No especificado,241
+Benito Juárez,si,Del servicio público de agua,430889
+Coyoacán,no,Camion cisterna,674
+Coyoacán,no,De la lluvia,16
+Coyoacán,no,De otra vivienda,404
+Coyoacán,no,De un pozo particular,100
+Coyoacán,no,Llave o pozo comunitario,901
+Coyoacán,no,No especificado,431
+Coyoacán,si,Del servicio público de agua,608854
+Cuajimalpa de Morelos,no,"Acarreada de un río, arroyo o lago",17
+Cuajimalpa de Morelos,no,Camion cisterna,2620
+Cuajimalpa de Morelos,no,De la lluvia,59
+Cuajimalpa de Morelos,no,De otra vivienda,998
+Cuajimalpa de Morelos,no,De un pozo particular,261
+Cuajimalpa de Morelos,no,Llave o pozo comunitario,12431
+Cuajimalpa de Morelos,no,No especificado,1163
+Cuajimalpa de Morelos,si,Del servicio público de agua,199931
+Cuauhtémoc,no,"Acarreada de un río, arroyo o lago",10
+Cuauhtémoc,no,Camion cisterna,535
+Cuauhtémoc,no,De la lluvia,20
+Cuauhtémoc,no,De otra vivienda,346
+Cuauhtémoc,no,De un pozo particular,48
+Cuauhtémoc,no,Llave o pozo comunitario,392
+Cuauhtémoc,no,No especificado,279
+Cuauhtémoc,si,Del servicio público de agua,537736
+Gustavo A. Madero,no,Camion cisterna,3073
+Gustavo A. Madero,no,De la lluvia,25
+Gustavo A. Madero,no,De otra vivienda,912
+Gustavo A. Madero,no,De un pozo particular,137
+Gustavo A. Madero,no,Llave o pozo comunitario,5780
+Gustavo A. Madero,no,No especificado,819
+Gustavo A. Madero,si,Del servicio público de agua,1151028
+Iztacalco,no,Camion cisterna,1819
+Iztacalco,no,De la lluvia,7
+Iztacalco,no,De otra vivienda,432
+Iztacalco,no,De un pozo particular,29
+Iztacalco,no,Llave o pozo comunitario,146
+Iztacalco,no,No especificado,628
+Iztacalco,si,Del servicio público de agua,400221
+Iztapalapa,no,"Acarreada de un río, arroyo o lago",8
+Iztapalapa,no,Camion cisterna,26015
+Iztapalapa,no,De la lluvia,171
+Iztapalapa,no,De otra vivienda,1413
+Iztapalapa,no,De un pozo particular,116
+Iztapalapa,no,Llave o pozo comunitario,3288
+Iztapalapa,no,No especificado,510
+Iztapalapa,si,Del servicio público de agua,1786871
+La Magdalena Contreras,no,"Acarreada de un río, arroyo o lago",91
+La Magdalena Contreras,no,Camion cisterna,3202
+La Magdalena Contreras,no,De la lluvia,47
+La Magdalena Contreras,no,De otra vivienda,534
+La Magdalena Contreras,no,De un pozo particular,903
+La Magdalena Contreras,no,Llave o pozo comunitario,7046
+La Magdalena Contreras,no,No especificado,710
+La Magdalena Contreras,si,Del servicio público de agua,234014
+Miguel Hidalgo,no,Camion cisterna,163
+Miguel Hidalgo,no,De la lluvia,8
+Miguel Hidalgo,no,De otra vivienda,152
+Miguel Hidalgo,no,De un pozo particular,91
+Miguel Hidalgo,no,Llave o pozo comunitario,483
+Miguel Hidalgo,no,No especificado,6032
+Miguel Hidalgo,si,Del servicio público de agua,405100
+Milpa Alta,no,"Acarreada de un río, arroyo o lago",21
+Milpa Alta,no,Camion cisterna,20039
+Milpa Alta,no,De la lluvia,135
+Milpa Alta,no,De otra vivienda,1667
+Milpa Alta,no,De un pozo particular,311
+Milpa Alta,no,Llave o pozo comunitario,6757
+Milpa Alta,no,No especificado,257
+Milpa Alta,si,Del servicio público de agua,123292
+Tlalpan,no,"Acarreada de un río, arroyo o lago",42
+Tlalpan,no,Camion cisterna,116402
+Tlalpan,no,De la lluvia,879
+Tlalpan,no,De otra vivienda,1754
+Tlalpan,no,De un pozo particular,1232
+Tlalpan,no,Llave o pozo comunitario,11129
+Tlalpan,no,No especificado,1133
+Tlalpan,si,Del servicio público de agua,562109
+Tláhuac,no,"Acarreada de un río, arroyo o lago",12
+Tláhuac,no,Camion cisterna,18518
+Tláhuac,no,De la lluvia,65
+Tláhuac,no,De otra vivienda,1506
+Tláhuac,no,De un pozo particular,101
+Tláhuac,no,Llave o pozo comunitario,4832
+Tláhuac,no,No especificado,505
+Tláhuac,si,Del servicio público de agua,365682
+Venustiano Carranza,no,Camion cisterna,205
+Venustiano Carranza,no,De la lluvia,14
+Venustiano Carranza,no,De otra vivienda,341
+Venustiano Carranza,no,De un pozo particular,24
+Venustiano Carranza,no,Llave o pozo comunitario,266
+Venustiano Carranza,no,No especificado,619
+Venustiano Carranza,si,Del servicio público de agua,440713
+Xochimilco,no,"Acarreada de un río, arroyo o lago",71
+Xochimilco,no,Camion cisterna,41075
+Xochimilco,no,De la lluvia,541
+Xochimilco,no,De otra vivienda,3467
+Xochimilco,no,De un pozo particular,752
+Xochimilco,no,Llave o pozo comunitario,24513
+Xochimilco,no,No especificado,2194
+Xochimilco,si,Del servicio público de agua,365120
+Álvaro Obregón,no,"Acarreada de un río, arroyo o lago",3
+Álvaro Obregón,no,Camion cisterna,2766
+Álvaro Obregón,no,De la lluvia,47
+Álvaro Obregón,no,De otra vivienda,1097
+Álvaro Obregón,no,De un pozo particular,170
+Álvaro Obregón,no,Llave o pozo comunitario,5451
+Álvaro Obregón,no,No especificado,2218
+Álvaro Obregón,si,Del servicio público de agua,744504
