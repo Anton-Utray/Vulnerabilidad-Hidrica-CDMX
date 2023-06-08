@@ -3,14 +3,13 @@
 
 
 <p align="center">
-  <img src=image.png alt="Tlaloc" width="800">
+  <img src=image.png alt="Portada" width="800">
 </p>
 
-1. [Descripción](#descripción)
-2. [Desarrollo](#desarrollo)
-3. [Transformación](#transformación)
-4. [Carga](#carga)
-5. [Consultas y analisis](#consultas)
+1. [✍️Descripción](#descripción)
+2. [💧Desarrollo del proyecto](#desarrollo)
+3. [🏃🏽‍♀️ Próximos pasos](#próximos)
+
 
 ## Descripción del proyecto ✍️
 
@@ -34,7 +33,7 @@ Para tales efectos, se ha recopilado la siguiente información :
 - Tasa de escolaridad por alcaldía. 
 - Escuelas publicas en la Ciudad de México. 
 
-## Desarrollo del proyecto
+## 💧 Desarrollo del proyecto
 
 Tras la adecuación de los datos se crea un dashboard interactivo en Tableau que permita a la Coalición explorar los distintos elementos de vulnerabilidad hídrica y de potencial para escalamiento de su proyecto piloto. 
 
