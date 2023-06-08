@@ -3,11 +3,11 @@
 
 
 <p align="center">
-  <img src=image.png alt="Tlaloc" width="500">
+  <img src=image.png alt="Tlaloc" width="800">
 </p>
 
 1. [Descripción](#descripción)
-2. [Extracción](#extracción)
+2. [Desarrollo](#desarrollo)
 3. [Transformación](#transformación)
 4. [Carga](#carga)
 5. [Consultas y analisis](#consultas)
