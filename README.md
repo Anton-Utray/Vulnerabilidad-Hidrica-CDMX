@@ -45,8 +45,8 @@ El resultado es un cuadro de mando que permite explorar y filtrar la informació
 
 
 #### footnotes: 
-[^1] : Fase 1 : https://github.com/Anton-Utray/ETL
-[^2] : Fase 2 : https://github.com/Anton-Utray/ETL-EDA 
-[^3] : Proyecto Piloto captura de lluvia en escuelas de la Coalición Tricolor : https://www.coalicion-tricolor.com/_files/ugd/441226_089487397102429a8db70da4a1a9c968.pdf
-[^4] Tandeo: Los municipios que reciben agua por 'tandeo' se refiere a que solo reciben suministro durante determinadas horas o días. 
+[^1] : Fase 1  https://github.com/Anton-Utray/ETL
+[^2] : Fase 2  https://github.com/Anton-Utray/ETL-EDA 
+[^3] : Proyecto Piloto captura de lluvia en escuelas de la Coalición Tricolor  https://www.coalicion-tricolor.com/_files/ugd/441226_089487397102429a8db70da4a1a9c968.pdf
+[^4] : Los municipios que reciben agua por 'tandeo' se refiere a que solo reciben suministro durante determinadas horas o días. 
 
