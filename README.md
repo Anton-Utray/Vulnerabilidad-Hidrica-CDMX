@@ -1,7 +1,7 @@
 # Mapeando la vulnerabilidad hidrica en la CDMX (3/3)
 
 <p align="center">
-  <img src=image.png alt="Portada" width="800">
+  <img src=VISUAL\Desabasto_de_Agua_Ixhuatepec-3.jpg alt="Portada" width="800">
 </p>
 
 1. [✍️Descripción](#descripción)
