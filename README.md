@@ -41,7 +41,8 @@ https://github.com/Anton-Utray/FINAL/assets/127222778/38a29613-dcf7-41eb-b5f6-ad
 
 ## 🏃🏽‍♀️ Próximos pasos
 
-¡Una increible cerveza con los compis y el maravilloso equipo docente de Iron Hack! 👯‍♀️ 🍻 
+- Adecuar dashboard Tableau para exportar a la pagina web de la Coalición Tricolor.
+- Actualizar base de datos en SQL.
 
 #### footnotes: 
 [^1]: Fase 1  https://github.com/Anton-Utray/ETL
